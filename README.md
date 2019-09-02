@@ -15,3 +15,10 @@
 **GitHub dos integrantes**: jhessicaluz, antoniocrviana, RaianePessoa.  
 **Tema**: Efeito Magnus.  
 **Responsável pela criação do repositório**: Jhéssica Luz
+
+<h1>Introdução </h1>
+
+<h1>Objetivos </h1>
+<h1>Requisitos de solução </h1>
+<h1>Escopo do experimento </h1> 
+<h1>Avaliação de viabilidade </h1>
