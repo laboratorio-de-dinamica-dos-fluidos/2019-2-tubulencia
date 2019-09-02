@@ -19,6 +19,9 @@
 <h1>Introdução </h1>
 
 <h1>Objetivos </h1>
+
+O experimento visa a validação do Efeito Magnus, fenômeno pelo qual a rotação de um objeto altera sua trajetória em um fluido (líquido ou gás). No experimento base, é utilizado um RC Plane (um dispositivo controlado por um rádio). Para o trabalho em questão, será feita uma análise experimental e empírica no túnel de vento, utilizando apenas a estrutura do dispositivo (sem controle por rádio e sem o motor), de modo a comprovar a sustentação gerada.
+
 <h1>Requisitos de solução </h1>
 <h1>Escopo do experimento </h1> 
 
