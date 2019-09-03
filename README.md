@@ -34,4 +34,4 @@ Com o intuito de comprovar a sustentação gerada pelo fenômeno, será utilizad
 <br />
 
 <h1>Avaliação de viabilidade </h1>
-Como forma de demonstrar experimentalmente o Efeito Magnus, o grupo optou por um equipamento que será projetado e consruido do zero.  Visto que o equipamento possui uma estrutura de aço com  chapas de madeira fina, e que será necessario o uso de solda, acarretará um certo custo, porém nada que possa o tornar inviável. 
+Como forma de demonstrar experimentalmente o Efeito Magnus, o grupo optou por um equipamento que será projetado e consruido do zero.  Visto que o equipamento possui uma estrutura de aço com  chapas de madeira fina, e que será necessario o uso de solda, acarretará um certo custo, tanto monetário, quanto em relação a tempo, porém, nada que possa o tornar inviável. 
