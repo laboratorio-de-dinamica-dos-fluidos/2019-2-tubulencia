@@ -20,7 +20,9 @@
 
 <h1>Objetivos </h1>
 
-O experimento visa a validação do Efeito Magnus, fenômeno pelo qual a rotação de um objeto altera sua trajetória em um fluido (líquido ou gás). Para o trabalho em questão, será feita uma análise experimental em túnel de vento utilizando um RC Plane (um dispositivo controlado por um rádio). Contudo, em tal analise será utilizado apenas a estrutura do dispositivo para comprovar a sustentação gerada pelo Efeito Magnus.
+O trabalho em questão tem como propósito demonstrar que o efeito Magnus gera uma força de sustentação em um Rc plane, o qual pode ser observado na figura 1. Esse efeito será validado experimentalmente em túnel de vento utilizando apenas a estrutura do dispositivo e desconsiderando o efeito do motor. Além da comprovação da força de sustentação, será também comprovado o arrasto gerado. Para tal feito, será utilizado molas em pontos estratégicos que irão oscilar com o aumento da velocidade do fluxo de ar.  
+
+![Figura 1- Rc Plane](https://static.wixstatic.com/media/42044d_7721dc274180459180a3ccff567550f4~mv2.jpg/v1/fill/w_593,h_1024,al_c,q_85/42044d_7721dc274180459180a3ccff567550f4~mv2.webp)
 
 <h1>Requisitos de solução </h1>
 
