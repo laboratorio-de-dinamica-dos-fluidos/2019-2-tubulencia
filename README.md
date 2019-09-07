@@ -46,13 +46,13 @@ Para a concepção do projeto, é necessário construir uma estrutura do RC Plan
 
 Divisão de Tarefas
 --------------------------------------------------------:
-Introdução | Raiane
-Objetivo | Júnior
-Requisitos de solução | Jhéssica
-Avaliação de viabilidade | Júnior
-Estimativa de tempo | Júnior
-Menbros responsáveis pelo CAD | Raine e Jhéssica
-Custo do projeto e compra dos materiais | Júnior
+Introdução : Raiane
+Objetivo : Júnior
+Requisitos de solução : Jhéssica
+Avaliação de viabilidade : Júnior
+Estimativa de tempo : Júnior
+Menbros responsáveis pelo CAD : Raiane e Jhéssica
+Custo do projeto e compra dos materiais : Júnior
 
 
 <h1>Avaliação de viabilidade </h1>
