@@ -22,8 +22,7 @@
 
  O propósito  desse projeto é demonstrar experimentalmente que o  efeito Magnus gera uma força de sustentação em um Rc plane, o qual pode ser observado na figura 1. O efeito será validado experimentalmente em túnel de vento utilizando apenas a estrutura do dispositivo e desconsiderando o efeito do motor. Além da comprovação da força de sustentação, será também comprovado o arrasto gerado, para isso será utilizado molas e pesos em pontos estratégicos  que irão oscilar com o aumento da velocidade do fluxo de ar.  
 
-<img src="https://static.wixstatic.com/media/42044d_7721dc274180459180a3ccff567550f4~mv2.jpg/v1/fill/w_593,h_1024,al_c,q_85/42044d_7721dc274180459180a3ccff567550f4~mv2.webp" width="200" height="100">
-
+![Figura 1- Rc Plane](https://static.wixstatic.com/media/42044d_7721dc274180459180a3ccff567550f4~mv2.jpg/v1/fill/w_593,h_1024,al_c,q_85/42044d_7721dc274180459180a3ccff567550f4~mv2.webp | width=100)
 
 <h1>Requisitos de solução </h1>
 
@@ -38,13 +37,13 @@ Para fins de  comprovação da força de sustentação e arraste em corpos aerod
 ![Figura 1- Rc Plane](https://i.imgur.com/WR8U144.png)
 
                           Divisão de Tarefas
---------------------------------------------------------------------: 
-Introdução| Francisca Raiane
-Objetivo| Antonio Júnior
+:--------------------------------------------------------------------:
+Introdução| Raiane
+Objetivo| Júnior
 Requisitos de soluçao| Jhéssica
-Estimativa de tempo| Antonio Junior
-Menbros responsáveis pelo CAD| Francisca Raianee Jhéssica
-Custo do projeto e compra dos materiais| Antonio Júnior
+Estimativa de tempo| Júnior
+Membros responsáveis pelo CAD| Riane e Jhéssica
+Custo do projeto e compra dos materiais|Júnior
 
 
 
