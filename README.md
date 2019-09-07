@@ -37,15 +37,10 @@ Para fins de  comprovação da força de sustentação e arraste em corpos aerod
 ![Figura 1- Rc Plane](https://i.imgur.com/WR8U144.png)
 
                           Divisão de Tarefas
-:--------------------------------------------------------------------:
-Introdução| Raiane
-Objetivo| Júnior
-Requisitos de soluçao| Jhéssica
-Estimativa de tempo| Júnior
-Membros responsáveis pelo CAD| Riane e Jhéssica
-Custo do projeto e compra dos materiais|Júnior
-
-
+-----------------------------------------------------------------------------------------------------------------------------------
+Introdução| Objetico | Requisitos e solução | Estmativa de tempo | Membros responsáveis pelo CAD | Custo do projeto e compra dos materiais
+-----------------------------------------------------------------------------------------------------------------------------------
+Raiane  | júnior | Jhéssica| Júnior | Raiane e Jhéssica | Júnior 
 
 
 <h1>Avaliação de viabilidade </h1>
