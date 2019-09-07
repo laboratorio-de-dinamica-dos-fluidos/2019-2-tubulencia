@@ -44,8 +44,8 @@ Para a concepção do projeto, é necessário construir uma estrutura do RC Plan
  
 ![Figura 1- Rc Plane](https://i.imgur.com/gr5ibkk.png)
 
-Tarefas | Responsável
-----------------------------------------------:
+Tópico | Responsável
+--------------------------------------------------------:
 Introdução | Raiane
 Objetivo | Júnior
 Requisitos de solução | Jhéssica
