@@ -24,7 +24,7 @@
 
  O propósito  desse projeto é demonstrar experimentalmente que o  efeito Magnus gera uma força de sustentação em um Rc plane, o qual pode ser observado na figura 1. O efeito será validado experimentalmente em túnel de vento utilizando apenas a estrutura do dispositivo e desconsiderando o efeito do motor. Além da comprovação da força de sustentação, será também comprovado o arrasto gerado, para isso será utilizado molas e pesos em pontos estratégicos  que irão oscilar com o aumento da velocidade do fluxo de ar.  
 
-![Figura 1- Rc Plane](https://static.wixstatic.com/media/42044d_7721dc274180459180a3ccff567550f4~mv2.jpg/v1/fill/w_593,h_1024,al_c,q_85/42044d_7721dc274180459180a3ccff567550f4~mv2.webp | width=100)
+<img src="https://static.wixstatic.com/media/42044d_7721dc274180459180a3ccff567550f4~mv2.jpg/v1/fill/w_593,h_1024,al_c,q_85/42044d_7721dc274180459180a3ccff567550f4~mv2.webp" width="200" height="100">
 
 <h1>Requisitos de solução </h1>
 
