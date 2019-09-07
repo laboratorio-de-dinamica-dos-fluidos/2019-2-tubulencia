@@ -22,7 +22,7 @@
 
  O propósito  desse projeto é demonstrar experimentalmente que o  efeito Magnus gera uma força de sustentação em um Rc plane, o qual pode ser observado na figura 1. O efeito será validado experimentalmente em túnel de vento utilizando apenas a estrutura do dispositivo e desconsiderando o efeito do motor. Além da comprovação da força de sustentação, será também comprovado o arrasto gerado, para isso será utilizado molas e pesos em pontos estratégicos  que irão oscilar com o aumento da velocidade do fluxo de ar.  
 
-![Figura 1- Rc Plane](https://static.wixstatic.com/media/42044d_7721dc274180459180a3ccff567550f4~mv2.jpg/v1/fill/w_593,h_1024,al_c,q_85/42044d_7721dc274180459180a3ccff567550f4~mv2.webp =70x)
+![Figura 1- Rc Plane](https://static.wixstatic.com/media/42044d_7721dc274180459180a3ccff567550f4~mv2.jpg/v1/fill/w_593,h_1024,al_c,q_85/42044d_7721dc274180459180a3ccff567550f4~mv2.webp | width=100)
 
 <h1>Requisitos de solução </h1>
 
@@ -35,6 +35,18 @@ Para fins de  comprovação da força de sustentação e arraste em corpos aerod
 <br />
  
 ![Figura 1- Rc Plane](https://i.imgur.com/WR8U144.png)
+
+                          Divisão de Tarefas
+-------------------------------------------------------------------- 
+Introdução                              | Francisca Raiane
+Objetivo                                | Antonio Júnior
+Requisitos de soluçao                   | Jhéssica
+Estimativa de tempo                     | Antonio Junior
+Menbros responsáveis pelo CAD           | Francisca Raianee Jhéssica
+Custo do projeto e compra dos materiais | Antonio Júnior
+
+
+
 
 <h1>Avaliação de viabilidade </h1>
 Como forma de demonstrar experimentalmente o Efeito Magnus, o grupo optou por um equipamento que será projetado e construido do zero.   O equipamento possui uma estrutura de aço com  chapas de madeira fina, e não será necessário o uso de solda, pois as peças serão apenas embutidas. Visto que, o projeto tem um custo mínimo e é eficaz em sua proposta, é totalmente viável e operante.  
