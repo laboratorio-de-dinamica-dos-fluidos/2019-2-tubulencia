@@ -28,7 +28,7 @@
 
 Para fins de  comprovação da força de sustentação e arraste em corpos aerodinâmicos, foi decidido comprová-los experimentalmente a partir do Efeito Magnus. Para comprovar a sustentação gerada pelo fenômeno, será utilizado apenas a estrutura do dispositivo, sendo desconsiderado o efeito do motor (observados no experimento base). Além do equipamento projetado, será necessário a utilização do túnel de vento, a fim de se realizar a análise do moviento de ar sobre ou ao redor de objetos sólidos.No quesito materiais, optou-se por utilizar a madeira balsa para compor a estrutura final, por ser leve e resistente.
  
-![Figura 1- Rc Plane](https://imgur.com/WR8U144)
+![Figura 1- Rc Plane](https://i.imgur.com/WR8U144.png)
 
 
 <h1>Escopo do experimento </h1> 
