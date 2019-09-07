@@ -72,4 +72,15 @@ Para o sucesso do experimento, algumas questões são levadas em conta, como as 
 
 <h1>Referências</h1>
 
+@article{chave,
+ author  ={Claudia Garrastazu Ribeiro},
+ title   ={RASTREAMENTO DO PONTO DE MÁXIMA POTÊNCIA DE TURBINAS MAGNUS ACIONANDO GERADORES ELÉTRICOS},
+ address ={endereço},
+ pages   ={74},
+  url     ={},
+ urlaccessdate={Acesso em 06/09/2019},
+ year    ={2014}
+}
 
+
+RASTREAMENTO DO PONTO DE MÁXIMA POTÊNCIA DE TURBINAS MAGNUS ACIONANDO GERADORES ELÉTRICOS
