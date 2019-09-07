@@ -32,8 +32,8 @@ Para fins de  comprovação da força de sustentação e arraste em corpos aerod
 
 <p>
   Para concepção de tal projeto, será necessário primeiramente realizar um dimensionamento do túnel de vento, tendo em vista que será onde o experimento ocorrerá. Em segundo momento, será feito um desenho preliminar do protótipo, para posteriormente realizar um CAD 3D no software CATIA V5R21, este CAD ajudará na construção do protótipo que será feito com madeira balsa e impressão 3D. Finalizada a construção, se iniciarão os experimentos em túnel de vento para comprovar o efeito magnus. No Diagrama abaixo é possivel observar cada etapa do trabalho com as devidas datas de realização.
-
 <br />
+ 
 ![Figura 1- Rc Plane](https://i.imgur.com/WR8U144.png)
 
 <h1>Avaliação de viabilidade </h1>
