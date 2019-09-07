@@ -56,9 +56,9 @@ Como forma de demonstrar experimentalmente o Efeito Magnus, o grupo optou por um
 | Introdução            | Raiane           |
 | Objetivo              | Jhéssica         |
 | Requisitos de solução | Jhéssica         |
-| Estimativa do tempo:  | Antonio          |
+| Estimativa do tempo   | Antônio          |
 | Confecção do CAD      | Jhéssica, Raiane |
-| Avaliação de custo    | Antonio          |
+| Avaliação de custo    | Antônio          |
 | Construção            | Todos os membros |
 | Análise de resultados | Todos os membros |
 
