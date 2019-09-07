@@ -34,7 +34,7 @@ Para fins de  comprovação da força de sustentação e arraste em corpos aerod
 <h1>Escopo do experimento </h1> 
 
 <p>
-  Para concepção de tal projeto, será necessário primeiramente realizar um dimensionamento do túnel de vento, tendo em visto que será onde o experimento ocorrerá. Em segundo momento, será feito um desenho preliminar do protótipo, para posteriormente realizar um CAD 3D no software CATIA V5R21, este CAD ajudará na construção do protótipo, que será primeiramente feito com o material isopor e posteriomente com madeira balsa. Finalizada a construção, se iniciarão os experimentos em túnel de vento para comprovar o efeito magnus.
+  Para concepção de tal projeto, será necessário primeiramente realizar um dimensionamento do túnel de vento, tendo em vista que será onde o experimento ocorrerá. Em segundo momento, será feito um desenho preliminar do protótipo, para posteriormente realizar um CAD 3D no software CATIA V5R21, este CAD ajudará na construção do protótipo, que será primeiramente feito com o material isopor e posteriomente com madeira balsa. Finalizada a construção, se iniciarão os experimentos em túnel de vento para comprovar o efeito magnus.
 <br />
 
 <h1>Avaliação de viabilidade </h1>
