@@ -53,13 +53,13 @@ Como forma de demonstrar experimentalmente o Efeito Magnus, o grupo optou por um
 
 Divisão de Tarefas
 --------------------------------------------------------:
-Introdução : Raiane
-Objetivo : Júnior
-Requisitos de solução : Jhéssica
-Avaliação de viabilidade : Júnior
-Estimativa de tempo : Júnior
-Menbros responsáveis pelo CAD : Raiane e Jhéssica
-Custo do projeto e compra dos materiais : Júnior
+Introdução                      | Raiane
+Objetivo                        |Júnior
+Requisitos de solução           |Jhéssica
+Avaliação de viabilidade        | Júnior
+Estimativa de tempo             |Júnior
+Menbros responsáveis pelo CAD   |Raiane e Jhéssica
+Custo do projeto e compra dos materiais |Júnior
 
 <h1>Referências</h1>
 
