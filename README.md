@@ -38,7 +38,7 @@ Para fins de  comprovação da força de sustentação e arraste em corpos aerod
 
                          
 Divisão de Tarefas 
-----------------------------------------------------:
+------------------------------------------------------------------------------------------------:
 Introdução                              | Raiane
 Objetivo                                | Júnior 
 Requisitos e solução                    | Jhéssica
