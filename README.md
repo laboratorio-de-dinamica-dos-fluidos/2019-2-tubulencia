@@ -24,7 +24,7 @@
 
 ![Figura 1- Rc Plane](https://static.wixstatic.com/media/42044d_7721dc274180459180a3ccff567550f4~mv2.jpg/v1/fill/w_593,h_1024,al_c,q_85/42044d_7721dc274180459180a3ccff567550f4~mv2.webp |)
 
-<img src="https://static.wixstatic.com/media/42044d_7721dc274180459180a3ccff567550f4~mv2.jpg/v1/fill/w_593,h_1024,al_c,q_85/42044d_7721dc274180459180a3ccff567550f4~mv2.webp" alt="Figura 1- Rc Plane" width="90" height="90">
+<Figura 1- Rc Plane="https://static.wixstatic.com/media/42044d_7721dc274180459180a3ccff567550f4~mv2.jpg/v1/fill/w_593,h_1024,al_c,q_85/42044d_7721dc274180459180a3ccff567550f4~mv2.webp" alt="Figura 1- Rc Plane" width="100" height="100">
 
 <h1>Requisitos de solução </h1>
 
