@@ -48,6 +48,7 @@ Para a concepção do projeto, é necessário construir uma estrutura do RC Plan
 Como forma de demonstrar experimentalmente o Efeito Magnus, o grupo optou por um equipamento que será projetado e construido do zero.   O equipamento possui uma estrutura de aço com  chapas de madeira fina, e não será necessário o uso de solda, pois as peças serão apenas embutidas. Visto que, o projeto tem um custo mínimo e é eficaz em sua proposta, é totalmente viável e operante.  
 
 <h1>Procedimentos experimentais</h1>
+ O tempo para execução dos procedimentos citados no escopo leva em conta desde a determinação das dimensões do protótipo à análise dos resultados, seguida pela escrita final do relatório. O cronograma (disposto abaixo) que relaciona as tarefas e datas foi construído de acordo com as datas de entrega de cada etapa, determinadas pelo professor.
 
 ![Figura 1- Rc Plane](https://i.imgur.com/gr5ibkk.png)
 
@@ -56,9 +57,9 @@ Como forma de demonstrar experimentalmente o Efeito Magnus, o grupo optou por um
 | Introdução            | Raiane           |
 | Objetivo              | Jhéssica         |
 | Requisitos de solução | Jhéssica         |
-| Estimativa do tempo   | Antônio          |
+| Estimativa do tempo:  | Antonio          |
 | Confecção do CAD      | Jhéssica, Raiane |
-| Avaliação de custo    | Antônio          |
+| Avaliação de custo    | Antonio          |
 | Construção            | Todos os membros |
 | Análise de resultados | Todos os membros |
 
