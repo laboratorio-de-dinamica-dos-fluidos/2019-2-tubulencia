@@ -40,17 +40,17 @@ Para fins de  comprovação da força de sustentação e arraste em corpos aerod
 Divisão de Tarefas 
 ----------------------------------------------------
 
-Introdução| Raiane
+|Introdução| Raiane|
 -----------------------------------------------------
-Objetivo | Júnior 
+|Objetivo | Júnior |
 -----------------------------------------------------
-Requisitos e solução | Jhéssica
+|Requisitos e solução | Jhéssica|
 -----------------------------------------------------
-Estmativa de tempo | Júnior
+|Estmativa de tempo | Júnior|
 ------------------------------------------------------
-Membros responsáveis pelo CAD | Raiane e Jhéssica 
+|Membros responsáveis pelo CAD | Raiane e Jhéssica| 
 ------------------------------------------------------
-Custo do projeto e compra dos materiais| Júnior
+|Custo do projeto e compra dos materiais| Júnior|
 ------------------------------------------------------
 
 <h1>Avaliação de viabilidade </h1>
