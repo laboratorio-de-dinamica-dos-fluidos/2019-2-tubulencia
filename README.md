@@ -44,6 +44,11 @@ Para a concepção do projeto, é necessário construir uma estrutura do RC Plan
  
 ![Figura 1- Rc Plane](https://i.imgur.com/gr5ibkk.png)
 
+Divisão de tarefas
+---------------------------------------------------------------------------------------------------------------------------------------:
+Introdução | Raiane
+
+
 
 <h1>Avaliação de viabilidade </h1>
 Como forma de demonstrar experimentalmente o Efeito Magnus, o grupo optou por um equipamento que será projetado e construido do zero.   O equipamento possui uma estrutura de aço com  chapas de madeira fina, e não será necessário o uso de solda, pois as peças serão apenas embutidas. Visto que, o projeto tem um custo mínimo e é eficaz em sua proposta, é totalmente viável e operante.  
