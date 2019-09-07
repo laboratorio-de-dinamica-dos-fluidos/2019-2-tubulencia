@@ -7,6 +7,8 @@
 1. [Requisitos de solução](#id5)
 3. [Escopo do experimento](#id6)
 4. [Avaliação de viabilidade](#id7)
+5. [Procedimentos experimentais](#id8)
+6. [Referências](#id9)
 <div id='id1' />
 
 <h1>Informações gerais </h1>
@@ -39,21 +41,26 @@ Para a concepção do projeto, é necessário construir uma estrutura do RC Plan
 <h1>Escopo do experimento </h1> 
 
 <p>
-  Para concepção de tal projeto, será necessário primeiramente realizar um dimensionamento do túnel de vento, tendo em vista que será onde o experimento ocorrerá. Em segundo momento, será feito um desenho preliminar do protótipo, para posteriormente realizar um CAD 3D no software CATIA V5R21, este CAD ajudará na construção do protótipo que será feito com madeira balsa e impressão 3D. Finalizada a construção, se iniciarão os experimentos em túnel de vento para comprovar o efeito magnus. No Diagrama abaixo é possivel observar cada etapa do trabalho com as devidas datas de realização.
+  Para concepção de tal projeto, será necessário primeiramente realizar um dimensionamento do túnel de vento, tendo em vista que será onde o experimento ocorrerá. Em segundo momento, será feito um desenho preliminar do protótipo, para posteriormente realizar um CAD 3D no software CATIA V5R21, este CAD ajudará na construção do protótipo que será feito com madeira balsa e impressão 3D. Finalizada a construção, se iniciarão os experimentos em túnel de vento para comprovar o efeito magnus. 
 <br />
  
+<h1>Avaliação de viabilidade </h1>
+Como forma de demonstrar experimentalmente o Efeito Magnus, o grupo optou por um equipamento que será projetado e construido do zero.   O equipamento possui uma estrutura de aço com  chapas de madeira fina, e não será necessário o uso de solda, pois as peças serão apenas embutidas. Visto que, o projeto tem um custo mínimo e é eficaz em sua proposta, é totalmente viável e operante.  
+
+<h1>Procedimentos experimentais</h1>
+
 ![Figura 1- Rc Plane](https://i.imgur.com/gr5ibkk.png)
 
 Divisão de Tarefas
-:--------------------------------------------------------:
+--------------------------------------------------------:
 Introdução : Raiane
 Objetivo : Júnior
 Requisitos de solução : Jhéssica
-Avaliação de viabilidade : Raiane
+Avaliação de viabilidade : Júnior
 Estimativa de tempo : Júnior
 Menbros responsáveis pelo CAD : Raiane e Jhéssica
 Custo do projeto e compra dos materiais : Júnior
 
+<h1>Referências</h1>
 
-<h1>Avaliação de viabilidade </h1>
-Como forma de demonstrar experimentalmente o Efeito Magnus, o grupo optou por um equipamento que será projetado e construido do zero.   O equipamento possui uma estrutura de aço com  chapas de madeira fina, e não será necessário o uso de solda, pois as peças serão apenas embutidas. Visto que, o projeto tem um custo mínimo e é eficaz em sua proposta, é totalmente viável e operante.  
+
