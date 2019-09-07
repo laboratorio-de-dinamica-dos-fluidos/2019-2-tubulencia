@@ -26,15 +26,16 @@
 
 <h1>Requisitos de solução </h1>
 
-Para fins de  comprovação da força de sustentação e arraste em corpos aerodinâmicos, foi decidido comprová-los experimentalmente a partir do Efeito Magnus. Para comprovar a sustentação gerada pelo fenômeno, será utilizado apenas a estrutura do dispositivo, sendo desconsiderado o efeito do motor (observados no experimento base). Além do equipamento projetado, será necessário a utilização do túnel de vento, a fim de se realizar a análise do movimento de ar sobre ou ao redor de objetos sólidos.No quesito materiais, optou-se por utilizar a madeira balsa para compor a estrutura final, por ser leve e resistente.
+Para fins de  comprovação da força de sustentação e arraste em corpos aerodinâmicos, foi decidido comprová-los experimentalmente a partir do Efeito Magnus. Para comprovar a sustentação gerada pelo fenômeno, será utilizado apenas a estrutura do dispositivo, sendo desconsiderado o efeito do motor (observados no experimento base). Além do equipamento projetado, será necessário a utilização do túnel de vento, a fim de se realizar a análise do moviento de ar sobre ou ao redor de objetos sólidos.No quesito materiais, optou-se por utilizar a madeira balsa para compor a estrutura final, por ser leve e resistente.
  
-
+![Figura 1- Rc Plane](https://imgur.com/eRHr2nT)
 
 
 <h1>Escopo do experimento </h1> 
 
 <p>
-  Para concepção de tal projeto, será necessário primeiramente realizar um dimensionamento do túnel de vento, tendo em vista que será onde o experimento ocorrerá. Em segundo momento, será feito um desenho preliminar do protótipo, para posteriormente realizar um CAD 3D no software CATIA V5R21, este CAD ajudará na construção do protótipo, que será primeiramente feito com o material isopor e posteriomente com madeira balsa. Finalizada a construção, se iniciarão os experimentos em túnel de vento para comprovar o efeito magnus.
+  Para concepção de tal projeto, será necessário primeiramente realizar um dimensionamento do túnel de vento, tendo em vista que será onde o experimento ocorrerá. Em segundo momento, será feito um desenho preliminar do protótipo, para posteriormente realizar um CAD 3D no software CATIA V5R21, este CAD ajudará na construção do protótipo que será feito com madeira balsa e impressão 3D. Finalizada a construção, se iniciarão os experimentos em túnel de vento para comprovar o efeito magnus. No Diagrama abaixo é possivel observar cada etapa do trabalho com as devidas datas de realização.
+
 <br />
 
 <h1>Avaliação de viabilidade </h1>
