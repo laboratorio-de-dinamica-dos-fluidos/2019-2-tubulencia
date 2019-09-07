@@ -37,8 +37,8 @@ Para fins de  comprovação da força de sustentação e arraste em corpos aerod
 ![Figura 1- Rc Plane](https://i.imgur.com/WR8U144.png)
 
                          
-                               Divisão de Tarefas 
-------------------------------------------------------------------------------------------------:
+ Divisão de Tarefas 
+:------------------------------------------------------------------------------------------------:
 Introdução                              | Raiane
 Objetivo                                | Júnior 
 Requisitos e solução                    | Jhéssica
