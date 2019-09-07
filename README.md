@@ -38,12 +38,12 @@ Para fins de  comprovação da força de sustentação e arraste em corpos aerod
 
                           Divisão de Tarefas
 --------------------------------------------------------------------: 
-Introdução                              | Francisca Raiane
-Objetivo                                | Antonio Júnior
-Requisitos de soluçao                   | Jhéssica
-Estimativa de tempo                     | Antonio Junior
-Menbros responsáveis pelo CAD           | Francisca Raianee Jhéssica
-Custo do projeto e compra dos materiais | Antonio Júnior
+Introdução| Francisca Raiane
+Objetivo| Antonio Júnior
+Requisitos de soluçao| Jhéssica
+Estimativa de tempo| Antonio Junior
+Menbros responsáveis pelo CAD| Francisca Raianee Jhéssica
+Custo do projeto e compra dos materiais| Antonio Júnior
 
 
 
