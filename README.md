@@ -39,7 +39,8 @@ Para a concepção do projeto, é necessário construir uma estrutura do RC Plan
 <h1>Escopo do experimento </h1> 
 
 <p>
-  Para concepção de tal projeto, será necessário primeiramente realizar um dimensionamento do túnel de vento, tendo em vista que será onde o experimento ocorrerá. Em segundo momento, será feito um desenho preliminar do protótipo, para posteriormente realizar um CAD 3D no software CATIA V5R21, este CAD ajudará na construção do protótipo que será feito com madeira balsa e impressão 3D. Finalizada a construção, se iniciarão os experimentos em túnel de vento para comprovar o efeito magnus. No Diagrama abaixo é possivel observar cada etapa do trabalho com as devidas datas de realização.
+  Para concepção de tal projeto, será necessário primeiramente realizar um dimensionamento do túnel de vento, tendo em vista que será onde o experimento ocorrerá. Em segundo momento, será feito um desenho preliminar do protótipo, para posteriormente realizar um CAD 3D no software CATIA V5R21, este CAD ajudará na construção do protótipo que será feito com madeira balsa e impressão 3D. Finalizada a construção, se iniciarão os experimentos em túnel de vento para comprovar o efeito magnus. 
+  O tempo para execução de tais procedimentos leva em conta desde a determinação das dimensões do protótipo à análise dos resultados, seguida pela escrita final do relatório. O cronograma (disposto abaixo) que relaciona as tarefas e datas foi construído de acordo com as datas de entrega de cada etapa, determinadas pelo professor.
 <br />
  
 ![Figura 1- Rc Plane](https://i.imgur.com/gr5ibkk.png)
