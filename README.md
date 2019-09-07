@@ -20,7 +20,7 @@
 
 <h1>Objetivos </h1>
 
- O propósito  desse projeto é demonstrar experimentalmente que o efeito Magnus gera uma força de sustentação em um Rc plane, o qual pode ser observado na figura 1. O efeito será validado experimentalmente em túnel de vento utilizando apenas a estrutura do dispositivo e desconsiderando o efeito do motor. Além da comprovação da força de sustentação, será também comprovado o arrasto gerado, para isso será utilizado molas e pesos em pontos estratégicos  que irão oscilar com o aumento da velocidade do fluxo de ar.  
+ O propósito  desse projeto é demonstrar experimentalmente que o  efeito Magnus gera uma força de sustentação em um Rc plane, o qual pode ser observado na figura 1. O efeito será validado experimentalmente em túnel de vento utilizando apenas a estrutura do dispositivo e desconsiderando o efeito do motor. Além da comprovação da força de sustentação, será também comprovado o arrasto gerado, para isso será utilizado molas e pesos em pontos estratégicos  que irão oscilar com o aumento da velocidade do fluxo de ar.  
 
 ![Figura 1- Rc Plane](https://static.wixstatic.com/media/42044d_7721dc274180459180a3ccff567550f4~mv2.jpg/v1/fill/w_593,h_1024,al_c,q_85/42044d_7721dc274180459180a3ccff567550f4~mv2.webp)
 
@@ -28,7 +28,7 @@
 
 Com o intuito de comprovar a sustentação gerada pelo fenômeno, será utilizado apenas a estrutura do dispositivo, sendo desconsiderado o efeito do motor (observados no experimento base). Para a simulação, será utilizado o túnel de vento, que analisa o movimento de ar sobre ou ao redor de objetos sólidos, monitorado por uma bancada analítica. No quesito materiais, optou-se por utilizar a madeira balsa para compor a estrutura final, por ser leve e resistente.
 
-Atendendo a proposta avaliativa do laboratório de Dinâmica dos Fluidos de que os estudantes deveriam identificar problemas de engenharia cujas soluções envolvessem conhecimentos de dinâmica dos fluidos, optou-se por trabalhar com a comprovação da força de sustentação e arraste em aerofólios, e, para isso, foi decidido comprová-los experimentalmente a partir do Efeito Magnus.  
+[Atendendo a proposta avaliativa do laboratório de Dinâmica dos Fluidos de que os estudantes deveriam identificar problemas de engenharia cujas soluções envolvessem conhecimentos de dinâmica dos fluidos, optou-se por trabalhar com a comprovação da força de sustentação e arraste em aerofólios, e, para isso, foi decidido comprová-los experimentalmente a partir do Efeito Magnus. ] 
 
 
 
