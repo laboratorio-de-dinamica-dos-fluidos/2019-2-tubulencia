@@ -36,12 +36,16 @@ Para fins de  comprovação da força de sustentação e arraste em corpos aerod
  
 ![Figura 1- Rc Plane](https://i.imgur.com/WR8U144.png)
 
-                          Divisão de Tarefas
------------------------------------------------------------------------------------------------------------------------------------
-Introdução| Objetico | Requisitos e solução | Estmativa de tempo | Membros responsáveis pelo CAD | Custo do projeto e compra dos materiais
------------------------------------------------------------------------------------------------------------------------------------
-Raiane  | júnior | Jhéssica| Júnior | Raiane e Jhéssica | Júnior 
+                         
+Divisão de Tarefas 
+----------------------------------------------------:
 
+Introdução| Raiane
+Objetivo | Júnior 
+Requisitos e solução | Jhéssica
+Estmativa de tempo | Júnior
+Membros responsáveis pelo CAD | Raiane e Jhéssica 
+Custo do projeto e compra dos materiais| Júnior
 
 <h1>Avaliação de viabilidade </h1>
 Como forma de demonstrar experimentalmente o Efeito Magnus, o grupo optou por um equipamento que será projetado e construido do zero.   O equipamento possui uma estrutura de aço com  chapas de madeira fina, e não será necessário o uso de solda, pois as peças serão apenas embutidas. Visto que, o projeto tem um custo mínimo e é eficaz em sua proposta, é totalmente viável e operante.  
