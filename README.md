@@ -52,13 +52,13 @@ Como forma de demonstrar experimentalmente o Efeito Magnus, o grupo optou por um
 ![Figura 1- Rc Plane](https://i.imgur.com/gr5ibkk.png)
 
 Divisão de Tarefas
---------------------------------------------------------:
-Introdução                      | Raiane
-Objetivo                        |Júnior
-Requisitos de solução           |Jhéssica
-Avaliação de viabilidade        | Júnior
-Estimativa de tempo             |Júnior
-Menbros responsáveis pelo CAD   |Raiane e Jhéssica
+:----------------------------------------|----------------:
+Introdução |Raiane
+Objetivo |Júnior
+Requisitos de solução |Jhéssica
+Avaliação de viabilidade| Júnior
+Estimativa de tempo |Júnior
+Menbros responsáveis pelo CAD |Raiane e Jhéssica
 Custo do projeto e compra dos materiais |Júnior
 
 <h1>Referências</h1>
