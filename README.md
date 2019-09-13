@@ -59,6 +59,8 @@ Para o sucesso do experimento, algumas questões são levadas em conta, como as 
 
 ![Figura 1- Rc Plane](https://i.imgur.com/gr5ibkk.png)
 
+Com relação a divisão de atividades, que pode ser observado na tabela abaixo, foi determinada com base nas habilidade e disposição de cada membro para realiza-lás de acordo com o cronograma. 
+
 | Divisão de atividades |                  |
 |-----------------------|------------------|
 | Introdução            | Raiane           |
