@@ -61,6 +61,8 @@ Para o sucesso do experimento, algumas questões são levadas em conta, como as 
 
 Com relação a divisão de atividades, que pode ser observado na tabela abaixo, foi determinada com base nas habilidade e disposição de cada membro para realiza-lás de acordo com o cronograma. 
 
+<p align="center">
+ 
 | Divisão de atividades |                  |
 |-----------------------|------------------|
 | Introdução            | Raiane           |
@@ -72,6 +74,7 @@ Com relação a divisão de atividades, que pode ser observado na tabela abaixo,
 | Construção            | Jhéssica         |
 | Análise de resultados | Todos os membros |
 
+</p>
 <h1> Dados e Resultados</h1>
 
 Será apenas analisado as reações das forças de sustenção e arrasto causadas pelo efeito magnus, sem uma análise quantitativa. Além disso, será calculado a deformação da mola. Como resultado, deseja-se comprovar o efeito Magnus e sua capacidade aerodinâmica. 
