@@ -65,9 +65,9 @@ Para o sucesso do experimento, algumas questões são levadas em conta, como as 
 | Objetivo              | Jhéssica         |
 | Requisitos de solução | Jhéssica         |
 | Estimativa do tempo:  | Antonio          |
-| Confecção do CAD      | Jhéssica, Raiane |
+| Confecção do CAD      | Raiane           |
 | Avaliação de custo    | Antonio          |
-| Construção            | Todos os membros |
+| Construção            | Jhéssica         |
 | Análise de resultados | Todos os membros |
 
 <h1>Referências</h1>
