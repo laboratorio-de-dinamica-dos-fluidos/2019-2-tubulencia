@@ -61,8 +61,7 @@ Para o sucesso do experimento, algumas questões são levadas em conta, como as 
 
 Com relação a divisão de atividades, que pode ser observado na tabela abaixo, foi determinada com base nas habilidade e disposição de cada membro para realiza-lás de acordo com o cronograma. 
 
-<p align="center">
- 
+<p align="center"> 
 | Divisão de atividades |                  |
 |-----------------------|------------------|
 | Introdução            | Raiane           |
@@ -73,7 +72,6 @@ Com relação a divisão de atividades, que pode ser observado na tabela abaixo,
 | Avaliação de custo    | Antonio          |
 | Construção            | Jhéssica         |
 | Análise de resultados | Todos os membros |
-
 </p>
 <h1> Dados e Resultados</h1>
 
