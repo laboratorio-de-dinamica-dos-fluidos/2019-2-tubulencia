@@ -76,6 +76,8 @@ Com relação a divisão de atividades, que pode ser observada na tabela abaixo.
 | Construção            | Jhéssica         |
 | Análise de resultados | Todos os membros |
 
+Na figura abaixo observa-se o CAD do experimento que foi desenvolvido no Software Catia V5-R19, elemento este que ajudará na etapa de construção e desenvolvimento do projeto. 
+
 ![Figura 2- Cad](https://i.imgur.com/a8672JO.jpg)
 
 <h1> Dados e Resultados</h1>
