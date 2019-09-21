@@ -76,6 +76,8 @@ Com relação a divisão de atividades, que pode ser observada na tabela abaixo.
 | Construção            | Jhéssica         |
 | Análise de resultados | Todos os membros |
 
+![Figura 2- Cad](https://imgur.com/UOuWWCN)
+
 <h1> Dados e Resultados</h1>
 
 Será apenas analisado as reações das forças de sustenção e arrasto causadas pelo efeito magnus, sem uma análise quantitativa. Além disso, será calculada a deformação da mola. Como resultado, deseja-se comprovar o efeito Magnus e sua capacidade aerodinâmica. 
