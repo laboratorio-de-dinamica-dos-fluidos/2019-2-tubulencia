@@ -76,7 +76,7 @@ Com relação a divisão de atividades, que pode ser observada na tabela abaixo.
 | Construção            | Jhéssica         |
 | Análise de resultados | Todos os membros |
 
-![Figura 2- Cad](https://imgur.com/UOuWWCN)
+![Figura 2- Cad](https://i.imgur.com/a8672JO.jpg)
 
 <h1> Dados e Resultados</h1>
 
