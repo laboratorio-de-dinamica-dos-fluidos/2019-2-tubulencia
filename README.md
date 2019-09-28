@@ -86,7 +86,7 @@ Na etapa de construção do experimento, o primento procedimento realizado foi a
 
 ![Figura 2- Cad](https://i.imgur.com/CvCWOgj.jpg)
 
-![Imgur](https://imgur.com/wy9xwc4)
+![Imgur](https://i.imgur.com/wy9xwc4.jpg)
 
 <h1> Dados e Resultados</h1>
 
