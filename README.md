@@ -80,7 +80,7 @@ Na figura 2 observa-se o CAD do experimento que foi desenvolvido no Software Cat
 
 ![Figura 2- Cad](https://i.imgur.com/a8672JO.jpg)
 
-Na etapa de construção do experimento, o primento procedimento realizado foi a impressão das peças em uma impressora 3D, as quais podem ser observadas nas figuras abaixo. O material utilizado para a impressão foi um filamento de PLA. 
+Na etapa de construção do experimento, o primeira procedimento realizado foi a impressão das peças em uma impressora 3D, as quais podem ser observadas nas figuras abaixo. O material utilizado para a impressão foi um filamento de PLA. 
 
 ![Figura](https://i.imgur.com/8vPWESf.jpg)
 
