@@ -76,10 +76,13 @@ Com relação a divisão de atividades, que pode ser observada na tabela abaixo.
 | Construção            | Jhéssica         |
 | Análise de resultados | Todos os membros |
 
-Na figura abaixo observa-se o CAD do experimento que foi desenvolvido no Software Catia V5-R19, elemento este que ajudará na etapa de construção e desenvolvimento do projeto. 
+Na figura 2 observa-se o CAD do experimento que foi desenvolvido no Software Catia V5-R19, elemento este que ajudará na etapa de construção e desenvolvimento do projeto. 
 
 ![Figura 2- Cad](https://i.imgur.com/a8672JO.jpg)
 
+Na etapa de construção do experimento, o primento procedimento realizado foi a impressão das peças em uma impressora 3D, as quais podem ser observadas na Figura 3 e 4. O material utilizado para a impressão foi um filamento de PLA. 
+
+![Figura 2- Cad](https://i.imgur.com/8vPWESf.jpg)
 <h1> Dados e Resultados</h1>
 
 Será apenas analisado as reações das forças de sustenção e arrasto causadas pelo efeito magnus, sem uma análise quantitativa. Além disso, será calculada a deformação da mola. Como resultado, deseja-se comprovar o efeito Magnus e sua capacidade aerodinâmica. 
