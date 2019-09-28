@@ -85,6 +85,7 @@ Na etapa de construção do experimento, o primento procedimento realizado foi a
   <img width="300" height="400"
 [Figura 2- Cad]src="https://i.imgur.com/8vPWESf.jpg">
 </p>
+
 <h1> Dados e Resultados</h1>
 
 Será apenas analisado as reações das forças de sustenção e arrasto causadas pelo efeito magnus, sem uma análise quantitativa. Além disso, será calculada a deformação da mola. Como resultado, deseja-se comprovar o efeito Magnus e sua capacidade aerodinâmica. 
