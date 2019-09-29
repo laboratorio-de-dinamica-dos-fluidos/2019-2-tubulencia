@@ -84,6 +84,10 @@ Na etapa de construção do experimento, o primeira procedimento realizado foi a
 
 ![Figura](https://i.imgur.com/8vPWESf.jpg)
 
+<p align="center">
+  <img width="300" height="400" [Imagem 1] src="https://i.imgur.com/8vPWESf.jpg">
+</p>
+
 ![Figura 2- Cad](https://i.imgur.com/CvCWOgj.jpg)
 
 ![Imgur](https://i.imgur.com/wy9xwc4.jpg)
