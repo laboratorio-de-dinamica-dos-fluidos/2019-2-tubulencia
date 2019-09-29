@@ -82,7 +82,7 @@ Na figura abaixo, observa-se o CAD do experimento que foi desenvolvido no Softwa
   <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/a8672JO.jpg">
 </p>
 
-Na etapa de construção do experimento, o primeira procedimento realizado foi a impressão das peças em uma impressora 3D, as quais podem ser observadas nas figuras abaixo. O material utilizado para a impressão foi um filamento de PLA.
+Na etapa de construção do experimento, o primeiro procedimento realizado foi a impressão das peças em uma impressora 3D, as quais podem ser observadas nas figuras abaixo. O material utilizado para a impressão foi um filamento de PLA.
 
 <p align="center">
   <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/8vPWESf.jpg">
@@ -96,7 +96,8 @@ Na etapa de construção do experimento, o primeira procedimento realizado foi a
   <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/wy9xwc4.jpg">
 </p>
 
-Para a construção da peça rotativa (figura acima), foi utilizada madeira balsa. O dimensionamento seguiu uma proporção entre a largura dos retângulos (5cm) e os raios das circunferências (2.5cm).
+Para a construção da peça rotativa (figura acima), foi utilizada madeira balsa. O dimensionamento seguiu uma proporção entre a largura dos retângulos (5cm) e os raios das circunferências (2.5cm). A peça por completo é vazada e unida por um eixo (palito de churrasco). Para a construção desta peça, foram utilizadas ferramentas básicas, estilete e cola TEKBOND.
+
 Por problemas no dimensionamento das peças no software Catia V5-R19, a construção não foi concluída no prazo estipulado de acordo com o cronograma, uma vez que algumas peças precisaram ser remodeladas e impressas novamente.
 
 <h1> Dados e Resultados</h1>
