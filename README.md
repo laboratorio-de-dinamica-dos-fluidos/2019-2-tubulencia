@@ -78,19 +78,23 @@ Com relação a divisão de atividades, que pode ser observada na tabela abaixo.
 
 Na figura 2 observa-se o CAD do experimento que foi desenvolvido no Software Catia V5-R19, elemento este que ajudará na etapa de construção e desenvolvimento do projeto. 
 
-![Figura 2- Cad](https://i.imgur.com/a8672JO.jpg)
+<p align="center">
+  <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/a8672JO.jpg">
+</p>
 
 Na etapa de construção do experimento, o primeira procedimento realizado foi a impressão das peças em uma impressora 3D, as quais podem ser observadas nas figuras abaixo. O material utilizado para a impressão foi um filamento de PLA. 
 
-![Figura](https://i.imgur.com/8vPWESf.jpg)
-
 <p align="center">
-  <img width="300" height="400" [Imagem 1] src="https://i.imgur.com/8vPWESf.jpg">
+  <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/8vPWESf.jpg">
 </p>
 
-![Figura 2- Cad](https://i.imgur.com/CvCWOgj.jpg)
+<p align="center">
+  <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/CvCWOgj.jpg">
+</p>
 
-![Imgur](https://i.imgur.com/wy9xwc4.jpg)
+<p align="center">
+  <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/wy9xwc4.jpg">
+</p>
 
 <h1> Dados e Resultados</h1>
 
