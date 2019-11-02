@@ -60,7 +60,7 @@ Para o sucesso do experimento, algumas questões são levadas em conta, como as 
 <h1>Procedimentos experimentais</h1>
  O tempo para execução dos procedimentos citados no escopo leva em conta desde a determinação das dimensões do protótipo à análise dos resultados, seguida pela escrita final do relatório. O cronograma (disposto abaixo) que relaciona as tarefas e datas foi construído de acordo com as datas de entrega de cada etapa, determinadas pelo professor.
 
-![Figura 1- Rc Plane}(https://i.imgur.com/1KWVMYN.png)
+![Figura 1- Rc Plane](https://i.imgur.com/1KWVMYN.png)
 
 Com relação a divisão de atividades, que pode ser observada na tabela abaixo. Foi determinada com base nas habilidades e disposição de cada membro para realiza-lás de acordo com o cronograma. 
 
