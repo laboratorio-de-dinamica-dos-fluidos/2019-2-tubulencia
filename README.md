@@ -129,5 +129,8 @@ Concluída a construção da estrutura de teste, o próximo ponto avaliado foi a
 Será apenas analisado as reações das forças de sustenção e arrasto causadas pelo efeito magnus, sem uma análise quantitativa. Além disso, será calculada a deformação da mola. Como resultado, deseja-se comprovar o efeito Magnus e sua capacidade aerodinâmica. 
 <h1>Referências</h1>
 
+BIMBATO, Alex Mendonça. Estudo de Escoamentos Turbulentos em torno de um Corpo Rombudo de Superfície Hidraulicamente Lisa ou Rugosa Utilizando o Método de Vórtices Discretos. 2012. 165 f. Tese (Doutorado em Engenharia Mecânica) – Universidade Federal de Itajubá, Itajubá, 2012.
+
+CARVALHO, Gustavo Bifaroni de. Estudo experimental do escoamento em torno de cilindros circulares em movimento de rotação. 2003. xx, 90 f. Dissertação (mestrado) - Universidade Estadual Paulista, Faculdade de Engenharia de Ilha Solteira, 2003. Disponível em: <http://hdl.handle.net/11449/88895>.
 
 Ribeiro, C.Z RASTREAMENTO DO PONTO DE MÁXIMA POTÊNCIA DE TURBINAS MAGNUS ACIONANDO GERADORES ELÉTRICOS. Universidade Federal de Santa Maria, Sata Maria 2014 RS, Brasil. 
