@@ -100,6 +100,8 @@ Para a construção da peça rotativa (figura acima), foi utilizada madeira bals
 
 Por problemas no dimensionamento das peças no software Catia V5-R19, a construção não foi concluída no prazo estipulado de acordo com o cronograma, uma vez que algumas peças precisaram ser remodeladas e impressas novamente.
 
+Concluída a construção da estrutura de teste, o próximo ponto avaliado foi a função das molas no experimento (no total, 4 molas), que permitem a deformação na estrutura. Para garantir uma deformação visível, as molas não podem ser muito rígidas, ou seja, precisam ser o mais flexíveis possível.
+
 <h1> Dados e Resultados</h1>
 
 Será apenas analisado as reações das forças de sustenção e arrasto causadas pelo efeito magnus, sem uma análise quantitativa. Além disso, será calculada a deformação da mola. Como resultado, deseja-se comprovar o efeito Magnus e sua capacidade aerodinâmica. 
