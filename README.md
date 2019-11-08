@@ -76,6 +76,18 @@ Com relação a divisão de atividades, que pode ser observada na tabela abaixo.
 | Construção            | Jhéssica         |
 | Análise de resultados | Todos os membros |
 
+
+| Orçamento             |                  |
+|-----------------------|------------------|
+| Cola TEKBOND          | R$ 19,90         |
+| Estilete              | R$ 17,40         |
+| Elástico de borracha  | R$ 5,00          |
+| Palito de churrasco   | R$ 5,00          |
+| Parafusos             | R$ 1,47          |
+| Placa de compensado   | R$ 18,00         |
+| Placa de madeira balsa| R$ 19,40         |
+| Total:                | R$ 19,40         |
+
 Na figura abaixo, observa-se o CAD do experimento que foi desenvolvido no Software Catia V5-R19, elemento este que ajudará na etapa de construção e desenvolvimento do projeto. 
 
 <p align="center">
