@@ -216,15 +216,15 @@ Outro ponto de análise é o efeito Magnus, o qual foi definido no início do tr
  
  Parâmetros da Eq.5:
  
- <a href="https://www.codecogs.com/eqnedit.php?latex=V=" target="_blank"><img src="https://latex.codecogs.com/gif.latex?V=" title="V=" /></a>  Velocidade.
+* <a href="https://www.codecogs.com/eqnedit.php?latex=V=" target="_blank"><img src="https://latex.codecogs.com/gif.latex?V=" title="V=" /></a>  Velocidade.
  
- <a href="https://www.codecogs.com/eqnedit.php?latex=\rho&space;=" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\rho&space;=" title="\rho =" /></a> Massa específica.
+* <a href="https://www.codecogs.com/eqnedit.php?latex=\rho&space;=" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\rho&space;=" title="\rho =" /></a> Massa específica.
  
- <a href="https://www.codecogs.com/eqnedit.php?latex=A&space;=" target="_blank"><img src="https://latex.codecogs.com/gif.latex?A&space;=" title="A =" /></a> Área característica.
+* <a href="https://www.codecogs.com/eqnedit.php?latex=A&space;=" target="_blank"><img src="https://latex.codecogs.com/gif.latex?A&space;=" title="A =" /></a> Área característica.
  
- <a href="https://www.codecogs.com/eqnedit.php?latex=C_{S}=" target="_blank"><img src="https://latex.codecogs.com/gif.latex?C_{S}=" title="C_{S}=" /></a> Coeficiente de sustentação
+* <a href="https://www.codecogs.com/eqnedit.php?latex=C_{S}=" target="_blank"><img src="https://latex.codecogs.com/gif.latex?C_{S}=" title="C_{S}=" /></a> Coeficiente de sustentação
  
- <a href="https://www.codecogs.com/eqnedit.php?latex=w=" target="_blank"><img src="https://latex.codecogs.com/gif.latex?w=" title="w=" /></a> Velocidade angular.
+* <a href="https://www.codecogs.com/eqnedit.php?latex=w=" target="_blank"><img src="https://latex.codecogs.com/gif.latex?w=" title="w=" /></a> Velocidade angular.
  
 
 
@@ -257,15 +257,15 @@ Para definir o tipo do escoamento, foi calculado o número de Reynolds definido 
 
 Parâmetros para o cálculo do número de Reynolds:
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=\rho&space;=&space;1,2023&space;\frac{kg}{m^{3}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\rho&space;=&space;1,2023&space;\frac{kg}{m^{3}}" title="\rho = 1,2023 \frac{kg}{m^{3}}" /></a>   Massa específica do ar.
+* <a href="https://www.codecogs.com/eqnedit.php?latex=\rho&space;=&space;1,2023&space;\frac{kg}{m^{3}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\rho&space;=&space;1,2023&space;\frac{kg}{m^{3}}" title="\rho = 1,2023 \frac{kg}{m^{3}}" /></a>   Massa específica do ar.
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=\nu&space;=&space;1,861598e&space;-5&space;\frac{kg}{ms}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\nu&space;=&space;1,861598e&space;-5&space;\frac{kg}{ms}" title="\nu = 1,861598e -5 \frac{kg}{ms}" /></a>   Viscosidade do ar.
+* <a href="https://www.codecogs.com/eqnedit.php?latex=\nu&space;=&space;1,861598e&space;-5&space;\frac{kg}{ms}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\nu&space;=&space;1,861598e&space;-5&space;\frac{kg}{ms}" title="\nu = 1,861598e -5 \frac{kg}{ms}" /></a>   Viscosidade do ar.
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=D=&space;0,05&space;m" target="_blank"><img src="https://latex.codecogs.com/gif.latex?D=&space;0,05&space;m" title="D= 0,05 m" /></a>   Diâmetro da parte rotativa 
+* <a href="https://www.codecogs.com/eqnedit.php?latex=D=&space;0,05&space;m" target="_blank"><img src="https://latex.codecogs.com/gif.latex?D=&space;0,05&space;m" title="D= 0,05 m" /></a>   Diâmetro da parte rotativa 
 
- <a href="https://www.codecogs.com/eqnedit.php?latex=V=&space;5&space;\frac{m}{s}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?V=&space;5&space;\frac{m}{s}" title="V= 5 \frac{m}{s}" /></a>   Velocidade do túnel de vento.
+*  <a href="https://www.codecogs.com/eqnedit.php?latex=V=&space;5&space;\frac{m}{s}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?V=&space;5&space;\frac{m}{s}" title="V= 5 \frac{m}{s}" /></a>   Velocidade do túnel de vento.
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=Re&space;=\frac{\rho&space;VD}{\nu&space;}=&space;16146,074" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Re&space;=\frac{\rho&space;VD}{\nu&space;}=&space;16146,074" title="Re =\frac{\rho VD}{\nu }= 16146,074" /></a>
+ <a href="https://www.codecogs.com/eqnedit.php?latex=Re&space;=\frac{\rho&space;VD}{\nu&space;}=&space;16146,074" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Re&space;=\frac{\rho&space;VD}{\nu&space;}=&space;16146,074" title="Re =\frac{\rho VD}{\nu }= 16146,074" /></a>
 
 **Equação 6:** Número de Reynolds.
 
