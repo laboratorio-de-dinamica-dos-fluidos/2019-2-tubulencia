@@ -52,7 +52,7 @@ No caso do emprego de cilindros rotativos, outros parâmetros também são anali
 **Equação 2:** Rotação específica.
 
 
-nas quais ρ é a densidade do fluido, μ a viscosidade, U é a velocidade, d é o diâmetro do corpo e w éa velocidade angular do cilindro.
+nas quais ρ é a massa específica do fluido, μ a viscosidade, U é a velocidade, d é o diâmetro do corpo e w éa velocidade angular do cilindro.
 
 <p align="center">
   <img width="400" height="300" [Imagem 2] src="https://i.imgur.com/55QiiYn.png">
@@ -172,7 +172,7 @@ Para a construção da peça rotativa (figura acima), foi utilizada madeira bals
 Por problemas no dimensionamento das peças no software Catia V5-R19, a construção não foi concluída no prazo estipulado de acordo com o cronograma, uma vez que algumas peças precisaram ser remodeladas e impressas novamente. Além disso, o grupo teve problema em encontrar as molas adequadas para o experimento. Portanto, optou-se por substituir as molas por elásticos, tendo em vista que umas das propostas do experimento é apenas mostrar a existência das forças de sutentação e arrasto devido a deformação do elástico. 
 
 <p align="center">
-  <img width="400" height="400"[Imgur](https://i.imgur.com/dRqoccl.jpg)>
+  <img width="400" height="400" [Imgur] src="https://i.imgur.com/dRqoccl.jpg">
 </p>
 
 **Figura 9:** Estrutura final do experimento.
