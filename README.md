@@ -100,7 +100,7 @@ Além disso, foi feita uma pesquisa detalhada dos preços dos materias que seria
 | Impressão 3D          | R$ 15,00         |
 | Total:                | R$ 117,57        |
 
-Na figura abaixo, observa-se o CAD do experimento que foi desenvolvido no Software Catia V5-R19, elemento este que ajudará na etapa de construção e desenvolvimento do projeto. 
+Na figura 2, observa-se o CAD do experimento que foi desenvolvido no Software Catia V5-R19, elemento este que ajudará na etapa de construção e desenvolvimento do projeto. 
 
 <p align="center">
   <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/a8672JO.jpg">
@@ -122,9 +122,9 @@ Na etapa de construção do experimento, o primeiro procedimento realizado foi a
 
 Para a construção da peça rotativa (figura acima), foi utilizada madeira balsa. O dimensionamento seguiu uma proporção entre a largura dos retângulos (5cm) e os raios das circunferências (2.5cm). A peça por completo é vazada e unida por um eixo (palito de churrasco). Para a construção desta peça, foram utilizadas ferramentas básicas, estilete e cola TEKBOND.
 
-Por problemas no dimensionamento das peças no software Catia V5-R19, a construção não foi concluída no prazo estipulado de acordo com o cronograma, uma vez que algumas peças precisaram ser remodeladas e impressas novamente.
+Por problemas no dimensionamento das peças no software Catia V5-R19, a construção não foi concluída no prazo estipulado de acordo com o cronograma, uma vez que algumas peças precisaram ser remodeladas e impressas novamente. Além disso, O grupo teve problema em encontrar as molas adequadas para o experimento. Portanto, optou-se por substituir as molas por elásticos, tendo em vista que umas das propostas do experimento é apenas mostrar a existência das forças de sutentação e Arrasto devido a deformação do elástico. 
 
-Concluída a construção da estrutura de teste, o próximo ponto avaliado foi a função das molas no experimento (no total, 4 molas), que permitem a deformação na estrutura. Para garantir uma deformação visível, as molas não podem ser muito rígidas, ou seja, precisam ser o mais flexíveis possível.
+
 
 <h1> Dados e Resultados</h1>
 
