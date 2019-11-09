@@ -109,16 +109,16 @@ Para o sucesso do experimento, algumas questões são levadas em conta, como as 
 Com relação a divisão de atividades, que pode ser observada na tabela abaixo. Foi determinada com base nas habilidades e disposição de cada membro para realiza-lás de acordo com o cronograma. 
 
 
-| Divisão de atividades |                            |
-|-----------------------|----------------------------|
-| Introdução            | Francisca Raiane, Antonio  |
-| Objetivo              | Jhéssica                   |
-| Requisitos de solução | Jhéssica                   |
-| Estimativa do tempo:  | Antonio                    |
-| Confecção do CAD      | Francisca Raiane           |
-| Avaliação de custo    | Antonio                    |
-| Construção            | Jhéssica                   |
-| Análise de resultados | Todos os membros           |
+| Divisão de atividades |                  |
+|-----------------------|------------------|
+| Introdução            | Raiane, Antonio  |
+| Objetivo              | Jhéssica         |
+| Requisitos de solução | Jhéssica         |
+| Estimativa do tempo:  | Antonio          |
+| Confecção do CAD      | Raiane           |
+| Avaliação de custo    | Antonio          |
+| Construção            | Jhéssica         |
+| Análise de resultados | Todos os membros |
 
 **Tabela 1:** Divisão de atividades.
 
@@ -191,6 +191,28 @@ Tal princípio também explica a sustentação gerada pelo movimento de rotaçã
 <a href="https://www.codecogs.com/eqnedit.php?latex=p_{2}-&space;p_{1}&space;=&space;15,028&space;Pa" target="_blank"><img src="https://latex.codecogs.com/gif.latex?p_{2}-&space;p_{1}&space;=&space;15,028&space;Pa" title="p_{2}- p_{1} = 15,028 Pa" /></a>
 
 **Equação 4:** Diferença de pressão.
+
+Outro ponto de análise é o efeito Magnus, o qual foi definido no início do trabalho e é o foco principal do experimento. Fazendo uma análise matemática da força Magnus nota-se os principais parâmetros que influenciam sua magnitude, que podem ser visualizados na equação 5. Além disso, sua direção vai ser determinada pelo produto vetorial entre a velocidade angular e a velocidade linear da parte rotativa. 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=Fm&space;=&space;\frac{1}{2}&space;C_{s}\rho&space;AV^{2}&space;\frac{w\times&space;W}{w\times&space;W}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Fm&space;=&space;\frac{1}{2}&space;C_{s}\rho&space;AV^{2}&space;\frac{w\times&space;W}{w\times&space;W}" title="Fm = \frac{1}{2} C_{s}\rho AV^{2} \frac{w\times W}{w\times W}" /></a>
+
+**Equação 5:** Força Magnus.
+ 
+ Parâmetros da equação 5:
+ 
+ <a href="https://www.codecogs.com/eqnedit.php?latex=V=" target="_blank"><img src="https://latex.codecogs.com/gif.latex?V=" title="V=" /></a>  Velocidade.
+ 
+ <a href="https://www.codecogs.com/eqnedit.php?latex=\rho&space;=" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\rho&space;=" title="\rho =" /></a> Massa específica.
+ 
+ <a href="https://www.codecogs.com/eqnedit.php?latex=A&space;=" target="_blank"><img src="https://latex.codecogs.com/gif.latex?A&space;=" title="A =" /></a> Área caracterítica.
+ 
+ <a href="https://www.codecogs.com/eqnedit.php?latex=C_{S}=" target="_blank"><img src="https://latex.codecogs.com/gif.latex?C_{S}=" title="C_{S}=" /></a> Coeficiente de sustentação
+ 
+ <a href="https://www.codecogs.com/eqnedit.php?latex=w=" target="_blank"><img src="https://latex.codecogs.com/gif.latex?w=" title="w=" /></a> Velocidade angular.
+ 
+ 
+ 
+
 
 | Velocidades angulares |                  |
 |-----------------------|------------------|
