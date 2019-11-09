@@ -221,7 +221,8 @@ Velocidade média:
  
  <a href="https://www.codecogs.com/eqnedit.php?latex=Vm=229rpm" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Vm=229rpm" title="Vm=229rpm" /></a>
  
- Erro experimental:  <a href="https://www.codecogs.com/eqnedit.php?latex=(229rpm&space;\pm&space;12,02)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?
+ Erro experimental:  
+  <a href="https://www.codecogs.com/eqnedit.php?latex=(229rpm&space;\pm&space;12,02)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(229rpm&space;\pm&space;12,02)" title="(229rpm \pm 12,02)" /></a>
 
 
 
