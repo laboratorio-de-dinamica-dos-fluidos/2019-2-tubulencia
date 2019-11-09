@@ -253,6 +253,22 @@ Além disso, analisou-se os efeitos da força de sustentação (Fs) e a Força d
   <img width="400" height="400" [Imgur] src="https://i.imgur.com/3naEYBf.png)">
 </p>
 
+Para definir o tipo do escoamento, foi calculado o número de Reynolds definido no Eq. 6. Para tal cálculo, primeiramente calculou-se a massa específica do ar e a viscosidade que são apresentados abaixo. Como o número de Reynolds obtido foi consideravelmente baixo, tem-se um escoamento laminar, o qual é caracterizado por apresentar partículas se movendo através de uma trajetória bem definida. 
+
+Parâmetros para o cálculo do número de Reynolds:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\rho&space;=&space;1,2023&space;\frac{kg}{m^{3}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\rho&space;=&space;1,2023&space;\frac{kg}{m^{3}}" title="\rho = 1,2023 \frac{kg}{m^{3}}" /></a>   Massa específica do ar.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\nu&space;=&space;1,861598e&space;-5&space;\frac{kg}{ms}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\nu&space;=&space;1,861598e&space;-5&space;\frac{kg}{ms}" title="\nu = 1,861598e -5 \frac{kg}{ms}" /></a>   Viscosidade do ar.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=D=&space;0,05&space;m" target="_blank"><img src="https://latex.codecogs.com/gif.latex?D=&space;0,05&space;m" title="D= 0,05 m" /></a>   Diâmetro da parte rotativa 
+
+ <a href="https://www.codecogs.com/eqnedit.php?latex=V=&space;5&space;\frac{m}{s}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?V=&space;5&space;\frac{m}{s}" title="V= 5 \frac{m}{s}" /></a>   Velocidade do túnel de vento.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=Re&space;=\frac{\rho&space;VD}{\nu&space;}=&space;16146,074" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Re&space;=\frac{\rho&space;VD}{\nu&space;}=&space;16146,074" title="Re =\frac{\rho VD}{\nu }= 16146,074" /></a>
+
+**Equação 6:** Número de Reynolds.
+
 <h1> Referências</h1>
 
 BIMBATO, Alex Mendonça. Estudo de Escoamentos Turbulentos em torno de um Corpo Rombudo de Superfície Hidraulicamente Lisa ou Rugosa Utilizando o Método de Vórtices Discretos. 2012. 165 f. Tese (Doutorado em Engenharia Mecânica) – Universidade Federal de Itajubá, Itajubá, 2012.
