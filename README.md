@@ -86,12 +86,13 @@ Com relação a divisão de atividades, que pode ser observada na tabela abaixo.
 | Construção            | Jhéssica         |
 | Análise de resultados | Todos os membros |
 
+Além disso, foi feita uma pesquisa detalhada dos preços dos materias que seriam utilizados na concepção do experimento, o orçamento final pode ser observado na tabela abaixo.
 
 | Orçamento             |                  |
 |-----------------------|------------------|
 | Cola TEKBOND          | R$ 19,90         |
 | Estilete              | R$ 17,40         |
-| Elástico de borracha  | R$ 5,00          |
+| Elástico de borracha  | R$ 2,00         |
 | Palito de churrasco   | R$ 5,00          |
 | Parafusos             | R$ 1,47          |
 | Placa de compensado   | R$ 18,00         |
