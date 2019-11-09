@@ -49,7 +49,15 @@ No caso do emprego de cilindros rotativos, outros parâmetros também são anali
 
 nas quais ρ é a densidade do fluido, μ a viscosidade, U é a velocidade, d é o diâmetro do corpo e w éa velocidade angular do cilindro.
 
-Por meio da teoria do efeito Magnus e de estudos sobre o escoamento, foi constatado que um cilindro em rotação, imerso em um escoamento, é capaz de gerar altos coeficientes de sustentação. Entretanto, como todo corpo rombudo, apresenta altos coeficientes de arrasto.
+<p align="center">
+  <img width="300" height="300" [Imagem 2] src="https://i.imgur.com/55QiiYn.png">
+</p>
+**Figura 3:** Escoamento de fluido em torno de um cilindro em rotação
+
+ Na figura 3, pode ser observado  que  as  linhas  de  corrente  estão  mais  próximas  na  parte  superior  do  cilindro. Como citado neste relatório, nessa  região  a  velocidade  do  escoamento  é  maior,  e  de  acordo  com  o  teorema  de  Bernoulli (1738): “em  toda  corrente  de  água  ou  de ar a pressão será grande quando a velocidade for pequena e, ao contrário, a pressão será pequena quando a velocidade for grande”. Dessa forma, é  explicado  o  Efeito  Magnus,  pois  como  a  pressão  na  parte  de  cima  do cilindro  é  menor  em  relação  à  parte  de  baixo  (e  consequentemente  à  pressão  atmosférica),  o objeto tende  a desviar  sua trajetória  também  para cima (BOFF et al,  2012).
+
+
+Por meio desta teoria e dos estudos sobre o escoamento, foi constatado que um cilindro em rotação, imerso em um escoamento, é capaz de gerar altos coeficientes de sustentação. Entretanto, como todo corpo rombudo, apresenta altos coeficientes de arrasto.
 
 <h1>Objetivos </h1>
 
@@ -59,7 +67,7 @@ Por meio da teoria do efeito Magnus e de estudos sobre o escoamento, foi constat
   <img width="300" height="400" [Imagem 1] src="https://static.wixstatic.com/media/42044d_7721dc274180459180a3ccff567550f4~mv2.jpg/v1/fill/w_593,h_1024,al_c,q_85/42044d_7721dc274180459180a3ccff567550f4~mv2.webp">
 </p>
 
-**Figura 3:** Rc plane.
+**Figura 4:** Rc plane.
 
 <h1>Requisitos de solução </h1>
 
@@ -131,7 +139,7 @@ Na figura 2, observa-se o CAD do experimento que foi desenvolvido no Software Ca
   <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/a8672JO.jpg">
 </p>
 
-**Figura 4:** CAD preliminar.
+**Figura 5:** CAD preliminar.
 
 Na etapa de construção do experimento, o primeiro procedimento realizado foi a impressão das peças em uma impressora 3D, as quais podem ser observadas nas figuras abaixo. O material utilizado para a impressão foi um filamento de PLA.
 
@@ -139,19 +147,19 @@ Na etapa de construção do experimento, o primeiro procedimento realizado foi a
   <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/8vPWESf.jpg">
 </p>
 
-**Figura 5:**Impressão 3D** 
+**Figura 6:**Impressão 3D** 
 
 <p align="center">
   <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/CvCWOgj.jpg">
 </p>
 
-**Figura 6:** Suporte. 
+**Figura 7:** Suporte. 
 
 <p align="center">
   <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/wy9xwc4.jpg">
 </p>
 
-**Figura 7:** Parte giratória. 
+**Figura 8:** Parte giratória. 
 
 Para a construção da peça rotativa (figura acima), foi utilizada madeira balsa. O dimensionamento seguiu uma proporção entre a largura dos retângulos (5cm) e os raios das circunferências (2.5cm). A peça por completo é vazada e unida por um eixo (palito de churrasco). Para a construção desta peça, foram utilizadas ferramentas básicas, estilete e cola TEKBOND.
 
@@ -165,6 +173,8 @@ Será apenas analisado as reações das forças de sustenção e arrasto causada
 <h1>Referências</h1>
 
 BIMBATO, Alex Mendonça. Estudo de Escoamentos Turbulentos em torno de um Corpo Rombudo de Superfície Hidraulicamente Lisa ou Rugosa Utilizando o Método de Vórtices Discretos. 2012. 165 f. Tese (Doutorado em Engenharia Mecânica) – Universidade Federal de Itajubá, Itajubá, 2012.
+
+BOFF, J. ; JORGE, L. S. ; MACEDO, L. C.; SEREJO, R.; PINTO, W. T.; FONSECA, W.  S.  Demonstração  experimental  do  Efeito  Magnus  utilizando  material  de  baixo custo. XL Congresso Brasileiro de Educação e Engenharia (COBENGE), 2012, Bélem - PA.
 
 CARVALHO, Gustavo Bifaroni de. Estudo experimental do escoamento em torno de cilindros circulares em movimento de rotação. 2003. xx, 90 f. Dissertação (mestrado) - Universidade Estadual Paulista, Faculdade de Engenharia de Ilha Solteira, 2003. Disponível em: <http://hdl.handle.net/11449/88895>.
 
