@@ -24,11 +24,20 @@ A análise e a compreensão do escoamento ao redor de corpos sólidos é de suma
 
 O Efeito Magnus trata-se de um fenômeno hidrodinâmico descoberto pelo químico físico alemão Heinrich Gustav Magnus, onde um corpo girando em um fluido cria uma camada limite de ar ao redor dele mesmo. A camada limite induz um movimento circular generalizado do fluido. O Efeito Magnus é um caso isolado do princípio de Bernoulli, que estabelece que quando a velocidade é maior, a pressão do fluido é menor, e quando a velocidade é menor, a pressão do fluido é maior. Esse Gradiente de fluido de pressão resulta em uma força líquida no corpo e consequentemente a rotação na direção perpendicular ao vetor velocidade.  
 
-Para entender este princípio é necessário conhecer o comportamento dos fluidos em seu escoamento em torno dos objetos. Se um cilindro é introduzido num campo de escoamento inicialmente uniforme, as linhas de correte em torno do cilindro contornam o objeto. A velocidade do fluido é nula nos extremos de seu diâmetro horizontal e máxima nos extremos de seu diâmetro vertical, passando por valores intermediários para diâmetros que tenham outra orientação. Além disso, as velocidades da parede sólida e do escoamento  potencial possuem o mesmo sentido, enquanto que no escoamento principal e na parede movimentam-se em sentidos contrários.
+Para entender este princípio é necessário conhecer o comportamento dos fluidos em seu escoamento em torno dos objetos. Se um cilindro é introduzido num campo de escoamento inicialmente uniforme, as linhas de correte em torno do cilindro contornam o objeto. A velocidade do fluido é nula nos extremos de seu diâmetro horizontal e máxima nos extremos de seu diâmetro vertical, passando por valores intermediários para diâmetros que tenham outra orientação. Além disso, as velocidades da parede sólida e do escoamento  potencial possuem o mesmo sentido, enquanto que no escoamento principal e na parede movimentam-se em sentidos contrários (Carvalho,2003).
 
-![Figura X](https://imgur.com/a/9zJykMr)
+<p align="center">
+  <img width="400" height="400" [Imagem 1] src="https://imgur.com/HskYTNb">
+</p>
 
-Quando um fluido escoa em torno de um corpo sólido, surge sobre o corpo uma força. A projeção desta força na direção normal ao escoamento é chamada de sustentação (<a href="https://www.codecogs.com/eqnedit.php?latex=F_{l}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?F_{l}" title="F_{l}" /></a>); em contrapartida, a componente paralela à corrente livre é denominada arrasto (<a href="https://www.codecogs.com/eqnedit.php?latex=F_{d}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?F_{d}" title="F_{d}" /></a>). No caso do emprego de cilindros rotativos, outros parâmetros também são analisados, como o número de Reynolds e a rotação específica, dados por: 
+Quando um fluido escoa em torno de um corpo sólido, surge sobre o corpo uma força. A projeção desta força na direção normal ao escoamento é chamada de sustentação (<a href="https://www.codecogs.com/eqnedit.php?latex=F_{l}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?F_{l}" title="F_{l}" /></a>); em contrapartida, a componente paralela à corrente livre é denominada arrasto (<a href="https://www.codecogs.com/eqnedit.php?latex=F_{d}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?F_{d}" title="F_{d}" /></a>). 
+
+<p align="center">
+  <img width="300" height="400" [Imagem 1] src="https://media.springernature.com/original/springer-static/image/art%3A10.1007%2Fs10494-017-9859-1/MediaObjects/10494_2017_9859_Fig1_HTML.gif">
+</p>
+
+
+No caso do emprego de cilindros rotativos, outros parâmetros também são analisados, como o número de Reynolds e a rotação específica, dados por: 
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=R_{e}=\frac{\rho&space;Ud}{\mu&space;}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?R_{e}=\frac{\rho&space;Ud}{\mu&space;}" title="R_{e}=\frac{\rho Ud}{\mu }" /></a>
 
