@@ -171,7 +171,11 @@ Para a construção da peça rotativa (figura acima), foi utilizada madeira bals
 
 Por problemas no dimensionamento das peças no software Catia V5-R19, a construção não foi concluída no prazo estipulado de acordo com o cronograma, uma vez que algumas peças precisaram ser remodeladas e impressas novamente. Além disso, o grupo teve problema em encontrar as molas adequadas para o experimento. Portanto, optou-se por substituir as molas por elásticos, tendo em vista que umas das propostas do experimento é apenas mostrar a existência das forças de sutentação e arrasto devido a deformação do elástico. 
 
+<p align="center">
+  <img width="400" height="400"[Imgur](https://i.imgur.com/dRqoccl.jpg)>
+</p>
 
+**Figura 9:** Estrutura final do experimento.
 
 <h1> Dados e Resultados</h1>
 
