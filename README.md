@@ -41,6 +41,7 @@ nas quais ρ é a densidade do fluido, μ a viscosidade, U é a velocidade, d é
 <p align="center">
   <img width="300" height="400" [Imagem 1] src="https://static.wixstatic.com/media/42044d_7721dc274180459180a3ccff567550f4~mv2.jpg/v1/fill/w_593,h_1024,al_c,q_85/42044d_7721dc274180459180a3ccff567550f4~mv2.webp">
 </p>
+
 **Figura 1:** Rc plane.
 
 <h1>Requisitos de solução </h1>
