@@ -22,7 +22,7 @@
 
 A análise e a compreensão do escoamento ao redor de corpos sólidos é de suma importância para o avanço da tecnologia, em várias áreas de estudo. Compreender a dinâmica do escoamento e sua interação com esses corpos é muito importante para avaliação do sistema por onde o fluido escoa e para determinação de parâmetros, como a sustentação e o arrasto gerado por estes corpos (Bimbato, 2012). 
 
-O Efeito Magnus trata-se de um fenômeno hidrodinâmico descoberto pelo químico físico alemão Heinrich Gustav Magnus, onde um corpo girando em um fluido cria uma camada limite de ar ao redor dele mesmo. A camada limite induz um movimento circular generalizado do fluido. O Efeito Magnus é um caso isolado do princípio de Bernoulli, que estabelece que quando a velocidade é maior, a pressão do fluido é menor, e quando a velocidade é menor, a pressão do fluido é maior. Esse Gradiente de fluido de pressão resulta em uma força líquida no corpo e consequentemente a rotação na direção perpendicular ao vetor velocidade.  
+O Efeito Magnus trata-se de um fenômeno hidrodinâmico descoberto pelo químico físico alemão Heinrich Gustav Magnus, onde um corpo girando em um fluido cria uma camada limite de ar ao redor dele mesmo. A camada limite induz um movimento circular generalizado do fluido. O Efeito Magnus é um caso isolado do princípio de Bernoulli, que estabelece que quando a velocidade é maior, a pressão do fluido é menor, e quando a velocidade é menor, a pressão do fluido é maior. Esse gradiente de fluido de pressão resulta em uma força líquida no corpo e consequentemente a rotação na direção perpendicular ao vetor velocidade.  
 
 Para entender este princípio é necessário conhecer o comportamento dos fluidos em seu escoamento em torno dos objetos. Se um cilindro é introduzido num campo de escoamento inicialmente uniforme, as linhas de correte em torno do cilindro contornam o objeto. A velocidade do fluido é nula nos extremos de seu diâmetro horizontal e máxima nos extremos de seu diâmetro vertical, passando por valores intermediários para diâmetros que tenham outra orientação. Além disso, as velocidades da parede sólida e do escoamento  potencial possuem o mesmo sentido, enquanto que no escoamento principal e na parede movimentam-se em sentidos contrários (Carvalho,2003).
 
@@ -30,7 +30,7 @@ Para entender este princípio é necessário conhecer o comportamento dos fluido
   <img width="350" height="350" [Imagem 1] src="https://i.imgur.com/HskYTNb.png">
 </p>
 
-**Figura 1:** Esquema de um cilindro em rotação.
+**Figura 1:** Esquema de um cilindro em rotação(Carvalho,2003).
 
 Quando um fluido escoa em torno de um corpo sólido, surge sobre o corpo uma força. A projeção desta força na direção normal ao escoamento é chamada de sustentação (<a href="https://www.codecogs.com/eqnedit.php?latex=F_{l}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?F_{l}" title="F_{l}" /></a>); em contrapartida, a componente paralela à corrente livre é denominada arrasto (<a href="https://www.codecogs.com/eqnedit.php?latex=F_{d}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?F_{d}" title="F_{d}" /></a>). 
 
@@ -55,13 +55,12 @@ No caso do emprego de cilindros rotativos, outros parâmetros também são anali
 nas quais ρ é a massa específica do fluido, μ a viscosidade, U é a velocidade, d é o diâmetro do corpo e w éa velocidade angular do cilindro.
 
 <p align="center">
-  <img width="400" height="300" [Imagem 2] src="https://i.imgur.com/55QiiYn.png">
+  <img width="450" height="300" [Imagem 2] src="https://i.imgur.com/55QiiYn.png">
 </p>
 
 **Figura 3:** Escoamento de fluido em torno de um cilindro em rotação.
 
  Na figura 3, pode ser observado  que  as  linhas  de  corrente  estão  mais  próximas  na  parte  superior  do  cilindro. Como citado neste relatório, nessa  região  a  velocidade  do  escoamento  é  maior,  e  de  acordo  com  o  teorema  de  Bernoulli (1738): “em  toda  corrente  de  água  ou  de ar a pressão será grande quando a velocidade for pequena e, ao contrário, a pressão será pequena quando a velocidade for grande”. Dessa forma, é  explicado  o  Efeito  Magnus,  pois  como  a  pressão  na  parte  de  cima  do cilindro  é  menor  em  relação  à  parte  de  baixo  (e  consequentemente  à  pressão  atmosférica),  o objeto tende  a desviar  sua trajetória  também  para cima (BOFF et al,  2012).
-
 
 Por meio desta teoria e dos estudos sobre o escoamento, foi constatado que um cilindro em rotação, imerso em um escoamento, é capaz de gerar altos coeficientes de sustentação. Entretanto, como todo corpo rombudo, apresenta altos coeficientes de arrasto.
 
@@ -112,7 +111,7 @@ Com relação a divisão de atividades, que pode ser observada na tabela abaixo.
 
 | Divisão de atividades |                  |
 |-----------------------|------------------|
-| Introdução            | Raiane           |
+| Introdução            | Raiane, Antonio  |
 | Objetivo              | Jhéssica         |
 | Requisitos de solução | Jhéssica         |
 | Estimativa do tempo:  | Antonio          |
@@ -135,7 +134,7 @@ Além disso, foi feita uma pesquisa detalhada dos preços dos materias que seria
 | Placa de compensado   | R$ 18,00         |
 | Placa de madeira balsa| R$ 19,40         |
 | Impressão 3D          | R$ 15,00         |
-| Total:                | R$ 117,57        |
+| **Total:**            | R$ 117,57        |
 
 **Tabela 2:** Orçamento.
 
