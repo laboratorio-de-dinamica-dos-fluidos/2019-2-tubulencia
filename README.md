@@ -216,6 +216,17 @@ Outro ponto de análise é o efeito Magnus, o qual foi definido no início do tr
 |Segunda medição        | 237 rpm          |
 |Terceira medição       | 212 rpm          |
 
+Velocidade média:
+ <a href="https://www.codecogs.com/eqnedit.php?latex=Vm=\frac{238&plus;237&plus;212}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Vm=\frac{238&plus;237&plus;212}{3}" title="Vm=\frac{238+237+212}{3}" /></a>
+ 
+ <a href="https://www.codecogs.com/eqnedit.php?latex=Vm=229rpm" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Vm=229rpm" title="Vm=229rpm" /></a>
+ 
+ Erro experimental:  <a href="https://www.codecogs.com/eqnedit.php?latex=(229rpm&space;\pm&space;12,02)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?
+
+
+
+
+
 
 Além disso, analisou-se os efeitos da força de sustentação (Fs) e a Força de arrasto (Fa) gerados no experimento. Observou-se pela a deformação dos elásticos que apesar da força de sustentação ser alta o arrasto produzido também foi alto. Portanto, “ os corpos rombudos produzem um alto coeficiente de arrasto, que se deve, sobretudo, ao descolamento prematuro da camada limite, acarretando a formação de uma esteira relativamente larga” (ALMEIDA, 2015, p.3). Na Fig.12, pode ser visualizado com essas forças deformaram os elásticos.  
 
