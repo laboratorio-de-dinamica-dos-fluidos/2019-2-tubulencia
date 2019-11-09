@@ -189,3 +189,7 @@ BOFF, J. ; JORGE, L. S. ; MACEDO, L. C.; SEREJO, R.; PINTO, W. T.; FONSECA, W.  
 CARVALHO, Gustavo Bifaroni de. Estudo experimental do escoamento em torno de cilindros circulares em movimento de rotação. 2003. xx, 90 f. Dissertação (mestrado) - Universidade Estadual Paulista, Faculdade de Engenharia de Ilha Solteira, 2003. Disponível em: <http://hdl.handle.net/11449/88895>.
 
 Ribeiro, C.Z RASTREAMENTO DO PONTO DE MÁXIMA POTÊNCIA DE TURBINAS MAGNUS ACIONANDO GERADORES ELÉTRICOS. Universidade Federal de Santa Maria, Sata Maria 2014 RS, Brasil. 
+
+<h1>Conclusão</h1>
+
+<h1>Anexos</h1>
