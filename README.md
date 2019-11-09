@@ -27,7 +27,7 @@ O Efeito Magnus trata-se de um fenômeno hidrodinâmico descoberto pelo químico
 Para entender este princípio é necessário conhecer o comportamento dos fluidos em seu escoamento em torno dos objetos. Se um cilindro é introduzido num campo de escoamento inicialmente uniforme, as linhas de correte em torno do cilindro contornam o objeto. A velocidade do fluido é nula nos extremos de seu diâmetro horizontal e máxima nos extremos de seu diâmetro vertical, passando por valores intermediários para diâmetros que tenham outra orientação. Além disso, as velocidades da parede sólida e do escoamento  potencial possuem o mesmo sentido, enquanto que no escoamento principal e na parede movimentam-se em sentidos contrários (Carvalho,2003).
 
 <p align="center">
-  <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/HskYTNb.png">
+  <img width="350" height="350" [Imagem 1] src="https://i.imgur.com/HskYTNb.png">
 </p>
 
 **Figura 1:** Esquema de um cilindro em rotação.
@@ -48,6 +48,8 @@ No caso do emprego de cilindros rotativos, outros parâmetros também são anali
 <a href="https://www.codecogs.com/eqnedit.php?latex=\alpha=\frac{\omega&space;d}{2&space;U}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\alpha=\frac{\omega&space;d}{2&space;U}" title="\alpha=\frac{\omega d}{2 U}" /></a>
 
 nas quais ρ é a densidade do fluido, μ a viscosidade, U é a velocidade, d é o diâmetro do corpo e w éa velocidade angular do cilindro.
+
+Por meio da teoria do efeito Magnus e de estudos sobre o escoamento, foi constatado que um cilindro em rotação, imerso em um escoamento, é capaz de gerar altos coeficientes de sustentação. Entretanto, como todo corpo rombudo, apresenta altos coeficientes de arrasto.
 
 <h1>Objetivos </h1>
 
