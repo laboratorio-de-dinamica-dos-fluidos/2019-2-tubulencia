@@ -106,11 +106,15 @@ Além disso, foi feita uma pesquisa detalhada dos preços dos materias que seria
 | Impressão 3D          | R$ 15,00         |
 | Total:                | R$ 117,57        |
 
+**Tabela 1:** Orçamento.
+
 Na figura 2, observa-se o CAD do experimento que foi desenvolvido no Software Catia V5-R19, elemento este que ajudará na etapa de construção e desenvolvimento do projeto. 
 
 <p align="center">
   <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/a8672JO.jpg">
 </p>
+
+**Figura 2:** CAD preliminar
 
 Na etapa de construção do experimento, o primeiro procedimento realizado foi a impressão das peças em uma impressora 3D, as quais podem ser observadas nas figuras abaixo. O material utilizado para a impressão foi um filamento de PLA.
 
@@ -118,13 +122,19 @@ Na etapa de construção do experimento, o primeiro procedimento realizado foi a
   <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/8vPWESf.jpg">
 </p>
 
+**Figura 3:** 
+
 <p align="center">
   <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/CvCWOgj.jpg">
 </p>
 
+**Figura 4:** Suporte 
+
 <p align="center">
   <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/wy9xwc4.jpg">
 </p>
+
+**Figura 5:** Parte giratória. 
 
 Para a construção da peça rotativa (figura acima), foi utilizada madeira balsa. O dimensionamento seguiu uma proporção entre a largura dos retângulos (5cm) e os raios das circunferências (2.5cm). A peça por completo é vazada e unida por um eixo (palito de churrasco). Para a construção desta peça, foram utilizadas ferramentas básicas, estilete e cola TEKBOND.
 
