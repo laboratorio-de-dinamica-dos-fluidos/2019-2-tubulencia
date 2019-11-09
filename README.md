@@ -257,17 +257,18 @@ Drawing das peças
 <p align="center">
   <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/Y01baXN.jpg">
 </p>
-**Figura 10:** 
+**Anexo 1:** 
 
 <p align="center">
   <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/gDiL3dJ.jpg">
 </p>
 
-**Figura 11:**
+**Anexo 2:**
 <p align="center">
   <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/aVP7hWy.jpg">
 </p>
-
+**Anexo 3:**
 <p align="center">
   <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/gRWrPXf.jpg">
 </p>
+**Anexo 4:**
