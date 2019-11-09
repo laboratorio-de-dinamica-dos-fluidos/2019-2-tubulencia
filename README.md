@@ -20,7 +20,7 @@
 
 <h1>Introdução </h1>
 
-A análise e a compreensão do escoamento ao redor de corpos sólidos é de suma importância para o avanço da tecnologia, em várias áreas de estudo. Compreender a dinâmica do escoamento e sua interação com esses corpos é muito importante para avaliação do sistema por onde o fluido escoa e para determinação de parâmetros, como a sustentação e o arrasto gerado por estes corpos. 
+A análise e a compreensão do escoamento ao redor de corpos sólidos é de suma importância para o avanço da tecnologia, em várias áreas de estudo. Compreender a dinâmica do escoamento e sua interação com esses corpos é muito importante para avaliação do sistema por onde o fluido escoa e para determinação de parâmetros, como a sustentação e o arrasto gerado por estes corpos (Bimbato, 2012). 
 
 O Efeito Magnus trata-se de um fenômeno hidrodinâmico descoberto pelo químico físico alemão Heinrich Gustav Magnus, onde um corpo girando em um fluido cria uma camada limite de ar ao redor dele mesmo. A camada limite induz um movimento circular generalizado do fluido. O Efeito Magnus é um caso isolado do princípio de Bernoulli, que estabelece que quando a velocidade é maior, a pressão do fluido é menor, e quando a velocidade é menor, a pressão do fluido é maior. Esse Gradiente de fluido de pressão resulta em uma força líquida no corpo e consequentemente a rotação na direção perpendicular ao vetor velocidade.  
 
@@ -30,11 +30,15 @@ Para entender este princípio é necessário conhecer o comportamento dos fluido
   <img width="400" height="400" [Imagem 1] src="https://imgur.com/HskYTNb">
 </p>
 
+**Figura 1:** Esquema de um cilindro em rotação.
+
 Quando um fluido escoa em torno de um corpo sólido, surge sobre o corpo uma força. A projeção desta força na direção normal ao escoamento é chamada de sustentação (<a href="https://www.codecogs.com/eqnedit.php?latex=F_{l}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?F_{l}" title="F_{l}" /></a>); em contrapartida, a componente paralela à corrente livre é denominada arrasto (<a href="https://www.codecogs.com/eqnedit.php?latex=F_{d}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?F_{d}" title="F_{d}" /></a>). 
 
 <p align="center">
-  <img width="300" height="400" [Imagem 1] src="https://media.springernature.com/original/springer-static/image/art%3A10.1007%2Fs10494-017-9859-1/MediaObjects/10494_2017_9859_Fig1_HTML.gif">
+  <img width="300" height="300" [Imagem 2] src="https://media.springernature.com/original/springer-static/image/art%3A10.1007%2Fs10494-017-9859-1/MediaObjects/10494_2017_9859_Fig1_HTML.gif">
 </p>
+
+**Figura 2:** Distribuição de forças em um corpo imerso em campo de escoamento.
 
 
 No caso do emprego de cilindros rotativos, outros parâmetros também são analisados, como o número de Reynolds e a rotação específica, dados por: 
