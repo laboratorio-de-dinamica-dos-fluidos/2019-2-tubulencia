@@ -184,9 +184,15 @@ A primeira análise realizada foi a respeito do comportamento do fluido em torno
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\rho&space;v_{1}^{2}}{2}&space;&plus;&space;\rho&space;gh&space;&plus;&space;p_{1}&space;=&space;p_{2}&space;&plus;&space;\frac{\rho&space;v_{2}^{2}}{2}&space;&plus;\rho&space;gh" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\rho&space;v_{1}^{2}}{2}&space;&plus;&space;\rho&space;gh&space;&plus;&space;p_{1}&space;=&space;p_{2}&space;&plus;&space;\frac{\rho&space;v_{2}^{2}}{2}&space;&plus;\rho&space;gh" title="\frac{\rho v_{1}^{2}}{2} + \rho gh + p_{1} = p_{2} + \frac{\rho v_{2}^{2}}{2} +\rho gh" /></a>
 
+**Equação 3:** Equação de Bernoulli.
+
 Tal princípio também explica a sustentação gerada pelo movimento de rotação do experimento mostrando que onde a velocidade é maior, a pressão será relativamente baixa e onde a velocidade é baixa, a pressão será relativamente alta. Portanto, irá  produzir um fator sustentador. Essa diferença de pressão causada pela velocidade foi calculada e pode ser observada abaixo.
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=p_{2}-&space;p_{1}&space;=&space;15,028&space;Pa" target="_blank"><img src="https://latex.codecogs.com/gif.latex?p_{2}-&space;p_{1}&space;=&space;15,028&space;Pa" title="p_{2}- p_{1} = 15,028 Pa" /></a>
+
+**Equação 4:** Diferença de pressão.
+
+<h1> Referências</h1>
 
 BIMBATO, Alex Mendonça. Estudo de Escoamentos Turbulentos em torno de um Corpo Rombudo de Superfície Hidraulicamente Lisa ou Rugosa Utilizando o Método de Vórtices Discretos. 2012. 165 f. Tese (Doutorado em Engenharia Mecânica) – Universidade Federal de Itajubá, Itajubá, 2012.
 
