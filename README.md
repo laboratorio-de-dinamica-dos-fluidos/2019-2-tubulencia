@@ -178,6 +178,13 @@ Por problemas no dimensionamento das peças no software Catia V5-R19, a constru�
 
 Outro problema encontro pelo grupo, foi a instabilidade da estrutura do experimento. Portanto, optou-se como solução medir o peso da estrutura e equilibrar com um outro peso exatamente igual (figura 10). Outra solução adotada, foi adicionar elasticos na parte contrária a parte rotativa, para a estrutura se manter em um certo equilibriu durante o ensaio em túnel de vento (Figura 11). 
 
+Para a coleta de dados, foram necessários o túnel de vento, tacômetro Digital (+- 0,005), Minipa MDT-2238B e o aparato projetado pelo grupo.
+Primeiramente, colocou-se o aparato dentro no túnel de vento, o túnel foi acionado. Em seguida, com o uso de um tacômetro, mediu-se a velocidade que a peça rotativa do equipamento estava girando, as velocidades encontradas encontram-se na tabela 3. 
+  
+
+ 
+
+
 <h1> Dados e Resultados</h1>
 
 A primeira análise realizada foi a respeito do comportamento do fluido em torno da parte rotativa do experimento. Para isso utilizou-se o princípio de Bernoulli, que descreve o comportamento de um fluido a partir de princípios de conservação de energia (ALMEIDA, 2015, p.3). A equação que descreve esse princípio é descrita abaixo.
