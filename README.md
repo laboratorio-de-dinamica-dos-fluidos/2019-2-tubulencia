@@ -229,7 +229,7 @@ Outro ponto de análise é o efeito Magnus, o qual foi definido no início do tr
 
 Velocidade média:
 
- <a href="https://www.codecogs.com/latex/eqneditor.php?latex=V=" target="_blank"><img src="https://latex.codecogs.com/gif.latex?V=" title="V=" /></a>  Velocidade.
+<a href="https://www.codecogs.com/eqnedit.php?latex=Vm=\frac{238&plus;237&plus;212}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Vm=\frac{238&plus;237&plus;212}{3}" title="Vm=\frac{238+237+212}{3}" /></a>
 
 
 
