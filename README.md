@@ -192,6 +192,12 @@ Tal princípio também explica a sustentação gerada pelo movimento de rotaçã
 
 **Equação 4:** Diferença de pressão.
 
+| Velocidades angulares |                  |
+|-----------------------|------------------|
+|Primeira medição       | 238 rpm          |
+|Segunga medição        | 237 rpm          |
+|Terceira medição       | 212 rpm          |
+
 <h1> Referências</h1>
 
 BIMBATO, Alex Mendonça. Estudo de Escoamentos Turbulentos em torno de um Corpo Rombudo de Superfície Hidraulicamente Lisa ou Rugosa Utilizando o Método de Vórtices Discretos. 2012. 165 f. Tese (Doutorado em Engenharia Mecânica) – Universidade Federal de Itajubá, Itajubá, 2012.
