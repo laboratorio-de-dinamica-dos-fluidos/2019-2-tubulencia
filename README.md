@@ -284,5 +284,4 @@ Vídeo de teste em túnel de vento
 
 **Anexo 6:**
 [![Watch the video](https://img.youtube.com/vi/loM8fx40lCo/maxresdefault.jpg)](https://youtu.be/loM8fx40lCo)
-
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](https://i.imgur.com/2yjtCsi.png)](https://youtu.be/loM8fx40lCo)
