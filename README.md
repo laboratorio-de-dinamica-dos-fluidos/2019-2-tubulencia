@@ -26,7 +26,7 @@ O Efeito Magnus trata-se de um fenômeno hidrodinâmico descoberto pelo químico
 
 Para entender este princípio é necessário conhecer o comportamento dos fluidos em seu escoamento em torno dos objetos. Se um cilindro é introduzido num campo de escoamento inicialmente uniforme, as linhas de correte em torno do cilindro contornam o objeto. A velocidade do fluido é nula nos extremos de seu diâmetro horizontal e máxima nos extremos de seu diâmetro vertical, passando por valores intermediários para diâmetros que tenham outra orientação. 
 
-[Figura X](https://i.imgur.com/ntN0e6s.png)
+![Figura X](https://imgur.com/ntN0e6s)
 
 Quando um fluido escoa em torno de um corpo sólido, surge sobre o corpo uma força. A projeção desta força na direção normal ao escoamento é chamada de sustentação (<a href="https://www.codecogs.com/eqnedit.php?latex=F_{l}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?F_{l}" title="F_{l}" /></a>); em contrapartida, a componente paralela à corrente livre é denominada arrasto (<a href="https://www.codecogs.com/eqnedit.php?latex=F_{d}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?F_{d}" title="F_{d}" /></a>). No caso do emprego de cilindros rotativos, outros parâmetros também são analisados, como o número de Reynolds e a rotação específica, dados por: 
 
