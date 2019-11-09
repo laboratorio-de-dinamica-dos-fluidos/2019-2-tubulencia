@@ -180,6 +180,11 @@ Outro problema encontro pelo grupo, foi a instabilidade da estrutura do experime
 
 <h1> Dados e Resultados</h1>
 
+$$
+\frac{\rho v_{1}^{2}}{2} + \rho gh + p_{1} = p_{2} + \frac{\rho v_{2}^{2}}{2} + \rho gh
+$$
+
+
 Será apenas analisado as reações das forças de sustenção e arrasto causadas pelo efeito magnus, sem uma análise quantitativa. Além disso, será calculada a deformação da mola. Como resultado, deseja-se comprovar o efeito Magnus e sua capacidade aerodinâmica. 
 <h1>Referências</h1>
 
