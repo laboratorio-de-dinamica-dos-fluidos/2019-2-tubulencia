@@ -62,8 +62,6 @@ nas quais ρ é a massa específica do fluido, μ a viscosidade, U é a velocida
 
  Na figura 3, pode ser observado  que  as  linhas  de  corrente  estão  mais  próximas  na  parte  superior  do  cilindro. Como citado neste relatório, nessa  região  a  velocidade  do  escoamento  é  maior,  e  de  acordo  com  o  teorema  de  Bernoulli (1738): “em  toda  corrente  de  água  ou  de ar a pressão será grande quando a velocidade for pequena e, ao contrário, a pressão será pequena quando a velocidade for grande”. Dessa forma, é  explicado  o  Efeito  Magnus,  pois  como  a  pressão  na  parte  de  cima  do cilindro  é  menor  em  relação  à  parte  de  baixo  (e  consequentemente  à  pressão  atmosférica),  o objeto tende  a desviar  sua trajetória  também  para cima (BOFF et al,  2012).
 
-Por meio desta teoria e dos estudos sobre o escoamento, foi constatado que um cilindro em rotação, imerso em um escoamento, é capaz de gerar altos coeficientes de sustentação. Entretanto, como todo corpo rombudo, apresenta altos coeficientes de arrasto.
-
 <h1>Objetivos </h1>
 
  O propósito  desse projeto é demonstrar experimentalmente que o efeito Magnus gera uma força de sustentação em um Rc plane, observado na figura 1. O efeito será validado experimentalmente em túnel de vento utilizando uma adaptação da parte estrutural do dispositivo (o componente rotativo do RC plane) e desconsiderando o efeito do motor. Além da comprovação da força de sustentação, será também comprovado o arrasto gerado; para isso, será utilizado molas e pesos em pontos estratégicos da estrutura, que irão oscilar e deformar com o aumento da velocidade do fluxo de ar.  
@@ -178,13 +176,6 @@ Por problemas no dimensionamento das peças no software Catia V5-R19, a constru�
 
 Outro problema encontro pelo grupo, foi a instabilidade da estrutura do experimento. Portanto, optou-se como solução medir o peso da estrutura e equilibrar com um outro peso exatamente igual (figura 10). Outra solução adotada, foi adicionar elasticos na parte contrária a parte rotativa, para a estrutura se manter em um certo equilibriu durante o ensaio em túnel de vento (Figura 11). 
 
-Para a coleta de dados, foram necessários o túnel de vento, tacômetro Digital (+- 0,005), Minipa MDT-2238B e o aparato projetado pelo grupo.
-Primeiramente, colocou-se o aparato dentro no túnel de vento, o túnel foi acionado. Em seguida, com o uso de um tacômetro, mediu-se a velocidade que a peça rotativa do equipamento estava girando, as velocidades encontradas encontram-se na tabela 3. 
-  
-
- 
-
-
 <h1> Dados e Resultados</h1>
 
 A primeira análise realizada foi a respeito do comportamento do fluido em torno da parte rotativa do experimento. Para isso utilizou-se o princípio de Bernoulli, que descreve o comportamento de um fluido a partir de princípios de conservação de energia (ALMEIDA, 2015, p.3). A equação que descreve esse princípio é descrita abaixo.
@@ -217,8 +208,6 @@ Outro ponto de análise é o efeito Magnus, o qual foi definido no início do tr
  
  <a href="https://www.codecogs.com/eqnedit.php?latex=w=" target="_blank"><img src="https://latex.codecogs.com/gif.latex?w=" title="w=" /></a> Velocidade angular.
  
- 
- 
 
 
 | Velocidades angulares |                  |
@@ -227,11 +216,15 @@ Outro ponto de análise é o efeito Magnus, o qual foi definido no início do tr
 |Segunda medição        | 237 rpm          |
 |Terceira medição       | 212 rpm          |
 
-Velocidade média:
+<p align="center">
+  <img width="400" height="400" [Imgur] src="https://i.imgur.com/3naEYBf.png)">
+</p>
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=Vm=\frac{238&plus;237&plus;212}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Vm=\frac{238&plus;237&plus;212}{3}" title="Vm=\frac{238+237+212}{3}" /></a>
+Além disso, analisou-se os efeitos da força de sustentação (Fs) e a arrasto gerados no experimento. Observou-se pela a deformação dos elásticos que apesar da força de sustentação ser alta o arrasto produzido também foi alto. Portanto, “ Os corpos rombudos produzem um alto coeficiente de arrasto, que se deve, sobretudo, ao descolamento prematuro da camada limite, acarretando a formação de uma esteira relativamente larga” (ALMEIDA, 2015, p.3). Na Fig.12, pode ser visualizado com essas forças deformaram os elásticos.  
 
-
+<p align="center">
+  <img width="400" height="400" [Imgur] src="https://i.imgur.com/3naEYBf.png)">
+</p>
 
 <h1> Referências</h1>
 
