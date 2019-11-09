@@ -204,7 +204,7 @@ Outro ponto de análise é o efeito Magnus, o qual foi definido no início do tr
  
  <a href="https://www.codecogs.com/eqnedit.php?latex=\rho&space;=" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\rho&space;=" title="\rho =" /></a> Massa específica.
  
- <a href="https://www.codecogs.com/eqnedit.php?latex=A&space;=" target="_blank"><img src="https://latex.codecogs.com/gif.latex?A&space;=" title="A =" /></a> Área caracterítica.
+ <a href="https://www.codecogs.com/eqnedit.php?latex=A&space;=" target="_blank"><img src="https://latex.codecogs.com/gif.latex?A&space;=" title="A =" /></a> Área característica.
  
  <a href="https://www.codecogs.com/eqnedit.php?latex=C_{S}=" target="_blank"><img src="https://latex.codecogs.com/gif.latex?C_{S}=" title="C_{S}=" /></a> Coeficiente de sustentação
  
