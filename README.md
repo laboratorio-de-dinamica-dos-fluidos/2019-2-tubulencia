@@ -257,5 +257,13 @@ Ribeiro, C.Z RASTREAMENTO DO PONTO DE MÁXIMA POTÊNCIA DE TURBINAS MAGNUS ACION
 </p>
 
 <p align="center">
-  <img width="400" height="400" [Imagem 1] src="https://imgur.com/gDiL3dJ">
+  <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/gDiL3dJ.jpg">
+</p>
+
+<p align="center">
+  <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/aVP7hWy.jpg">
+</p>
+
+<p align="center">
+  <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/gRWrPXf.jpg">
 </p>
