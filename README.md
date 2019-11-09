@@ -227,6 +227,12 @@ Outro ponto de análise é o efeito Magnus, o qual foi definido no início do tr
 |Segunda medição        | 237 rpm          |
 |Terceira medição       | 212 rpm          |
 
+Velocidade média:
+
+ <a href="https://www.codecogs.com/latex/eqneditor.php?latex=V=" target="_blank"><img src="https://latex.codecogs.com/gif.latex?V=" title="V=" /></a>  Velocidade.
+
+
+
 <h1> Referências</h1>
 
 BIMBATO, Alex Mendonça. Estudo de Escoamentos Turbulentos em torno de um Corpo Rombudo de Superfície Hidraulicamente Lisa ou Rugosa Utilizando o Método de Vórtices Discretos. 2012. 165 f. Tese (Doutorado em Engenharia Mecânica) – Universidade Federal de Itajubá, Itajubá, 2012.
