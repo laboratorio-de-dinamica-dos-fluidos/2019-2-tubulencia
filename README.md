@@ -195,7 +195,7 @@ Tal princípio também explica a sustentação gerada pelo movimento de rotaçã
 | Velocidades angulares |                  |
 |-----------------------|------------------|
 |Primeira medição       | 238 rpm          |
-|Segunga medição        | 237 rpm          |
+|Segunda medição        | 237 rpm          |
 |Terceira medição       | 212 rpm          |
 
 <h1> Referências</h1>
