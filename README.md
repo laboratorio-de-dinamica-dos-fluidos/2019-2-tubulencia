@@ -50,7 +50,7 @@ No caso do emprego de cilindros rotativos, outros parâmetros também são anali
 nas quais ρ é a densidade do fluido, μ a viscosidade, U é a velocidade, d é o diâmetro do corpo e w éa velocidade angular do cilindro.
 
 <p align="center">
-  <img width="300" height="300" [Imagem 2] src="https://i.imgur.com/55QiiYn.png">
+  <img width="400" height="300" [Imagem 2] src="https://i.imgur.com/55QiiYn.png">
 </p>
 
 **Figura 3:** Escoamento de fluido em torno de um cilindro em rotação.
