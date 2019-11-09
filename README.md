@@ -109,16 +109,16 @@ Para o sucesso do experimento, algumas questões são levadas em conta, como as 
 Com relação a divisão de atividades, que pode ser observada na tabela abaixo. Foi determinada com base nas habilidades e disposição de cada membro para realiza-lás de acordo com o cronograma. 
 
 
-| Divisão de atividades |                  |
-|-----------------------|------------------|
-| Introdução            | Raiane, Antonio  |
-| Objetivo              | Jhéssica         |
-| Requisitos de solução | Jhéssica         |
-| Estimativa do tempo:  | Antonio          |
-| Confecção do CAD      | Raiane           |
-| Avaliação de custo    | Antonio          |
-| Construção            | Jhéssica         |
-| Análise de resultados | Todos os membros |
+| Divisão de atividades |                            |
+|-----------------------|----------------------------|
+| Introdução            | Francisca Raiane, Antonio  |
+| Objetivo              | Jhéssica                   |
+| Requisitos de solução | Jhéssica                   |
+| Estimativa do tempo:  | Antonio                    |
+| Confecção do CAD      | Francisca Raiane           |
+| Avaliação de custo    | Antonio                    |
+| Construção            | Jhéssica                   |
+| Análise de resultados | Todos os membros           |
 
 **Tabela 1:** Divisão de atividades.
 
