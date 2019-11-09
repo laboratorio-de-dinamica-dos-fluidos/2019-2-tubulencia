@@ -63,8 +63,8 @@ nas quais ρ é a massa específica do fluido, μ a viscosidade, U é a velocida
  Na figura 3, pode ser observado  que  as  linhas  de  corrente  estão  mais  próximas  na  parte  superior  do  cilindro. Como citado neste relatório, nessa  região  a  velocidade  do  escoamento  é  maior,  e  de  acordo  com  o  teorema  de  Bernoulli (1738): “em  toda  corrente  de  água  ou  de ar a pressão será grande quando a velocidade for pequena e, ao contrário, a pressão será pequena quando a velocidade for grande”. Dessa forma, é  explicado  o  Efeito  Magnus,  pois  como  a  pressão  na  parte  de  cima  do cilindro  é  menor  em  relação  à  parte  de  baixo  (e  consequentemente  à  pressão  atmosférica),  o objeto tende  a desviar  sua trajetória  também  para cima (BOFF et al,  2012).
 
 <h1>Objetivos </h1>
+O propósito desse projeto é demonstrar experimentalmente que o efeito Magnus gera uma força de sustentação em um Rc plane, observado na Fig.1 . O efeito será validado experimentalmente em túnel de vento utilizando uma adaptação da parte estrutural do dispositivo (o componente rotativo do RC plane) e desconsiderando o efeito do motor. Além da comprovação da força de sustentação, será também comprovado o arrasto gerado. Essas forças não serão medidas, mas apenas será observado o efeito gerado por tais. Para isso, será utilizado molas e pesos em pontos estratégicos da estrutura, que irão oscilar e deformar com o aumento da velocidade do fluxo de aR.
 
- O propósito  desse projeto é demonstrar experimentalmente que o efeito Magnus gera uma força de sustentação em um Rc plane, observado na figura 1. O efeito será validado experimentalmente em túnel de vento utilizando uma adaptação da parte estrutural do dispositivo (o componente rotativo do RC plane) e desconsiderando o efeito do motor. Além da comprovação da força de sustentação, será também comprovado o arrasto gerado; para isso, será utilizado molas e pesos em pontos estratégicos da estrutura, que irão oscilar e deformar com o aumento da velocidade do fluxo de ar.  
 
 <p align="center">
   <img width="300" height="400" [Imagem 1] src="https://static.wixstatic.com/media/42044d_7721dc274180459180a3ccff567550f4~mv2.jpg/v1/fill/w_593,h_1024,al_c,q_85/42044d_7721dc274180459180a3ccff567550f4~mv2.webp">
@@ -228,15 +228,27 @@ Velocidade média:
   <a href="https://www.codecogs.com/eqnedit.php?latex=(229rpm&space;\pm&space;12,02)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(229rpm&space;\pm&space;12,02)" title="(229rpm \pm 12,02)" /></a>
 
 
-
-
-
-
 Além disso, analisou-se os efeitos da força de sustentação (Fs) e a Força de arrasto (Fa) gerados no experimento. Observou-se pela a deformação dos elásticos que apesar da força de sustentação ser alta o arrasto produzido também foi alto. Portanto, “ os corpos rombudos produzem um alto coeficiente de arrasto, que se deve, sobretudo, ao descolamento prematuro da camada limite, acarretando a formação de uma esteira relativamente larga” (ALMEIDA, 2015, p.3). Na Fig.12, pode ser visualizado com essas forças deformaram os elásticos.  
 
 <p align="center">
   <img width="400" height="400" [Imgur] src="https://i.imgur.com/3naEYBf.png)">
 </p>
+
+Para definir o tipo do escoamento, foi calculado o número de Reynolds definido no Eq. 1. Para tal cálculo, primeiramente calculou-se a massa específica do ar e a viscosidade que são apresentados abaixo. Como o número de Reynolds obtido foi consideravelmente baixo, tem-se um escoamento laminar, o qual é caracterizado por apresentar partículas se movendo através de uma trajetória bem definida. 
+
+Parâmetros para o cálculo do número de Reynolds:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\rho&space;=&space;1,2023&space;\frac{kg}{m^{3}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\rho&space;=&space;1,2023&space;\frac{kg}{m^{3}}" title="\rho = 1,2023 \frac{kg}{m^{3}}" /></a>  Massa específica do ar.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\nu&space;=&space;1,861598e&space;-5&space;\frac{kg}{ms}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\nu&space;=&space;1,861598e&space;-5&space;\frac{kg}{ms}" title="\nu = 1,861598e -5 \frac{kg}{ms}" /></a>  Viscosidade do ar.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=D=&space;0,05&space;m" target="_blank"><img src="https://latex.codecogs.com/gif.latex?D=&space;0,05&space;m" title="D= 0,05 m" /></a>  Diâmetro da parte rotativa 
+
+ <a href="https://www.codecogs.com/eqnedit.php?latex=V=&space;5&space;\frac{m}{s}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?V=&space;5&space;\frac{m}{s}" title="V= 5 \frac{m}{s}" /></a>  Velocidade do túnel de vento.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=Re&space;=\frac{\rho&space;VD}{\nu&space;}=&space;16146,074" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Re&space;=\frac{\rho&space;VD}{\nu&space;}=&space;16146,074" title="Re =\frac{\rho VD}{\nu }= 16146,074" /></a>
+
+**Equação 5:** Número de Reynolds.
 
 <h1> Referências</h1>
 
