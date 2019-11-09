@@ -45,7 +45,12 @@ No caso do emprego de cilindros rotativos, outros parâmetros também são anali
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=R_{e}=\frac{\rho&space;Ud}{\mu&space;}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?R_{e}=\frac{\rho&space;Ud}{\mu&space;}" title="R_{e}=\frac{\rho Ud}{\mu }" /></a>
 
+**Equação 1:** Número de Reymolds.
+
 <a href="https://www.codecogs.com/eqnedit.php?latex=\alpha=\frac{\omega&space;d}{2&space;U}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\alpha=\frac{\omega&space;d}{2&space;U}" title="\alpha=\frac{\omega d}{2 U}" /></a>
+
+**Equação 2:** Rotação específica.
+
 
 nas quais ρ é a densidade do fluido, μ a viscosidade, U é a velocidade, d é o diâmetro do corpo e w éa velocidade angular do cilindro.
 
