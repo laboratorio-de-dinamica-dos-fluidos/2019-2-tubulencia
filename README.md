@@ -174,19 +174,25 @@ Por problemas no dimensionamento das peças no software Catia V5-R19, a constru�
 
 **Figura 9:** Estrutura final do experimento.
 
-Outro problema encontro pelo grupo, foi a instabilidade da estrutura do experimento. Portanto, optou-se como solução medir o peso da estrutura e equilibrar com um outro peso exatamente igual (Fig.10 e Fig.11). Outra solução adotada, foi adicionar elasticos na parte contrária a parte rotativa, para a estrutura se manter em um certo equilibriu durante o ensaio em túnel de vento (Fig.12). 
+Outro problema encontro pelo grupo, foi a instabilidade da estrutura do experimento. Portanto, optou-se como solução medir a massa da estrutura e equilibrar com uma outra massa exatamente igual (Fig.10 e Fig.11). Outra solução adotada, foi adicionar elasticos na parte contrária a parte rotativa, para a estrutura se manter em um certo equilibriu durante o ensaio em túnel de vento (Fig.12). 
 
 <p align="center">
-  <img width="400" height="400" [Imgur] src="(https://i.imgur.com/N3zQZVE.jpg)">
+  <img width="400" height="400" [Imgur] src="https://i.imgur.com/N3zQZVE.jpg">
 </p>
 
-<p align="center">
-  <img width="400" height="400" [Imgur] src="(https://i.imgur.com/cbNmbJH.jpg)">
-</p>
+**Figura 10:** Massa para equilibrar.
 
 <p align="center">
-  <img width="400" height="400" [Imgur] src="(https://i.imgur.com/1oECDGJ.jpg)">
+  <img width="400" height="400" [Imgur] src="https://i.imgur.com/WaiVJFz.jpg">
 </p>
+
+**Figura 11:** Massa da parte rotativa.
+
+<p align="center">
+  <img width="400" height="400" [Imgur] src="https://i.imgur.com/1oECDGJ.jpg">
+</p>
+
+**Figura 12:** Elásticos.
 
 <h1> Dados e Resultados</h1>
 
