@@ -283,7 +283,6 @@ Drawing das peças
 Vídeo de teste em túnel de vento
 
 **Anexo 6:**
-
-[![Watch the video](https://img.vimeo.com/vi/372125624/maxresdefault.jpg)](https://vimeo.com/372125624)
+[![Watch the video](https://img.youtube.com/vi/loM8fx40lCo/maxresdefault.jpg)](https://youtu.be/loM8fx40lCo)
 
 
