@@ -86,18 +86,19 @@ Com relação a divisão de atividades, que pode ser observada na tabela abaixo.
 | Construção            | Jhéssica         |
 | Análise de resultados | Todos os membros |
 
-Além disso, foi feita uma pesquisa detalhada dos preços dos materias que seriam utilizados na concepção do experimento, o orçamento final pode ser observado na tabela abaixo.
+Além disso, foi feita uma pesquisa detalhada dos preços dos materias que seriam utilizados na concepção do experimento. O grupo não teve gasto finaceiro com a madeira balsa e a placa de compensado, pois um membro do grupo já possui tais materiais e disponibilizou para uso. O orçamento final pode ser observado na tabela abaixo.
 
 | Orçamento             |                  |
 |-----------------------|------------------|
 | Cola TEKBOND          | R$ 19,90         |
 | Estilete              | R$ 17,40         |
-| Elástico de borracha  | R$ 2,00         |
+| Elástico de borracha  | R$ 2,00          |
 | Palito de churrasco   | R$ 5,00          |
 | Parafusos             | R$ 1,47          |
 | Placa de compensado   | R$ 18,00         |
 | Placa de madeira balsa| R$ 19,40         |
-| Total:                | R$ 19,40         |
+| Impressão 3D          | R$ 15,00         |
+| Total:                | R$ 117,57        |
 
 Na figura abaixo, observa-se o CAD do experimento que foi desenvolvido no Software Catia V5-R19, elemento este que ajudará na etapa de construção e desenvolvimento do projeto. 
 
