@@ -27,7 +27,7 @@ O Efeito Magnus trata-se de um fenômeno hidrodinâmico descoberto pelo químico
 Para entender este princípio é necessário conhecer o comportamento dos fluidos em seu escoamento em torno dos objetos. Se um cilindro é introduzido num campo de escoamento inicialmente uniforme, as linhas de correte em torno do cilindro contornam o objeto. A velocidade do fluido é nula nos extremos de seu diâmetro horizontal e máxima nos extremos de seu diâmetro vertical, passando por valores intermediários para diâmetros que tenham outra orientação. Além disso, as velocidades da parede sólida e do escoamento  potencial possuem o mesmo sentido, enquanto que no escoamento principal e na parede movimentam-se em sentidos contrários (Carvalho,2003).
 
 <p align="center">
-  <img width="400" height="400" [Imagem 1] src="https://imgur.com/HskYTNb">
+  <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/HskYTNb.png">
 </p>
 
 **Figura 1:** Esquema de um cilindro em rotação.
@@ -57,7 +57,7 @@ nas quais ρ é a densidade do fluido, μ a viscosidade, U é a velocidade, d é
   <img width="300" height="400" [Imagem 1] src="https://static.wixstatic.com/media/42044d_7721dc274180459180a3ccff567550f4~mv2.jpg/v1/fill/w_593,h_1024,al_c,q_85/42044d_7721dc274180459180a3ccff567550f4~mv2.webp">
 </p>
 
-**Figura 1:** Rc plane.
+**Figura 3:** Rc plane.
 
 <h1>Requisitos de solução </h1>
 
@@ -121,7 +121,7 @@ Além disso, foi feita uma pesquisa detalhada dos preços dos materias que seria
 | Impressão 3D          | R$ 15,00         |
 | Total:                | R$ 117,57        |
 
-**Tabela 1:** Orçamento.
+**Tabela 2:** Orçamento.
 
 Na figura 2, observa-se o CAD do experimento que foi desenvolvido no Software Catia V5-R19, elemento este que ajudará na etapa de construção e desenvolvimento do projeto. 
 
@@ -129,7 +129,7 @@ Na figura 2, observa-se o CAD do experimento que foi desenvolvido no Software Ca
   <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/a8672JO.jpg">
 </p>
 
-**Figura 2:** CAD preliminar.
+**Figura 4:** CAD preliminar.
 
 Na etapa de construção do experimento, o primeiro procedimento realizado foi a impressão das peças em uma impressora 3D, as quais podem ser observadas nas figuras abaixo. O material utilizado para a impressão foi um filamento de PLA.
 
@@ -137,19 +137,19 @@ Na etapa de construção do experimento, o primeiro procedimento realizado foi a
   <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/8vPWESf.jpg">
 </p>
 
-**Figura 3:** 
+**Figura 5:**Impressão 3D** 
 
 <p align="center">
   <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/CvCWOgj.jpg">
 </p>
 
-**Figura 4:** Suporte. 
+**Figura 6:** Suporte. 
 
 <p align="center">
   <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/wy9xwc4.jpg">
 </p>
 
-**Figura 5:** Parte giratória. 
+**Figura 7:** Parte giratória. 
 
 Para a construção da peça rotativa (figura acima), foi utilizada madeira balsa. O dimensionamento seguiu uma proporção entre a largura dos retângulos (5cm) e os raios das circunferências (2.5cm). A peça por completo é vazada e unida por um eixo (palito de churrasco). Para a construção desta peça, foram utilizadas ferramentas básicas, estilete e cola TEKBOND.
 
