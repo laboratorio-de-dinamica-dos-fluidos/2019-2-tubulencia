@@ -220,7 +220,7 @@ Outro ponto de análise é o efeito Magnus, o qual foi definido no início do tr
   <img width="400" height="400" [Imgur] src="https://i.imgur.com/3naEYBf.png)">
 </p>
 
-Além disso, analisou-se os efeitos da força de sustentação (Fs) e a arrasto gerados no experimento. Observou-se pela a deformação dos elásticos que apesar da força de sustentação ser alta o arrasto produzido também foi alto. Portanto, “ Os corpos rombudos produzem um alto coeficiente de arrasto, que se deve, sobretudo, ao descolamento prematuro da camada limite, acarretando a formação de uma esteira relativamente larga” (ALMEIDA, 2015, p.3). Na Fig.12, pode ser visualizado com essas forças deformaram os elásticos.  
+Além disso, analisou-se os efeitos da força de sustentação (Fs) e a Força de arrasto (Fa) gerados no experimento. Observou-se pela a deformação dos elásticos que apesar da força de sustentação ser alta o arrasto produzido também foi alto. Portanto, “ os corpos rombudos produzem um alto coeficiente de arrasto, que se deve, sobretudo, ao descolamento prematuro da camada limite, acarretando a formação de uma esteira relativamente larga” (ALMEIDA, 2015, p.3). Na Fig.12, pode ser visualizado com essas forças deformaram os elásticos.  
 
 <p align="center">
   <img width="400" height="400" [Imgur] src="https://i.imgur.com/3naEYBf.png)">
