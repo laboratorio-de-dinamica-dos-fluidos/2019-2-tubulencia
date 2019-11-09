@@ -196,7 +196,7 @@ Outro problema encontro pelo grupo, foi a instabilidade da estrutura do experime
 
 <h1> Dados e Resultados</h1>
 
-A primeira análise realizada foi a respeito do comportamento do fluido em torno da parte rotativa do experimento. Para isso utilizou-se o princípio de Bernoulli, que descreve o comportamento de um fluido a partir de princípios de conservação de energia (ALMEIDA, 2015, p.3). A equação que descreve esse princípio é descrita abaixo.
+A primeira análise realizada foi a respeito do comportamento do fluido em torno da parte rotativa do experimento. Para isso utilizou-se o princípio de Bernoulli, que descreve o comportamento de um fluido a partir do princípios de conservação de energia (ALMEIDA, 2015, p.3). A equação que descreve esse princípio é descrita abaixo.
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\rho&space;v_{1}^{2}}{2}&space;&plus;&space;\rho&space;gh&space;&plus;&space;p_{1}&space;=&space;p_{2}&space;&plus;&space;\frac{\rho&space;v_{2}^{2}}{2}&space;&plus;\rho&space;gh" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\rho&space;v_{1}^{2}}{2}&space;&plus;&space;\rho&space;gh&space;&plus;&space;p_{1}&space;=&space;p_{2}&space;&plus;&space;\frac{\rho&space;v_{2}^{2}}{2}&space;&plus;\rho&space;gh" title="\frac{\rho v_{1}^{2}}{2} + \rho gh + p_{1} = p_{2} + \frac{\rho v_{2}^{2}}{2} +\rho gh" /></a>
 
@@ -208,13 +208,13 @@ Tal princípio também explica a sustentação gerada pelo movimento de rotaçã
 
 **Equação 4:** Diferença de pressão.
 
-Outro ponto de análise é o efeito Magnus, o qual foi definido no início do trabalho e é o foco principal do experimento. Fazendo uma análise matemática da força Magnus nota-se os principais parâmetros que influenciam sua magnitude, que podem ser visualizados na equação 5. Além disso, sua direção vai ser determinada pelo produto vetorial entre a velocidade angular e a velocidade linear da parte rotativa. 
+Outro ponto de análise é o efeito Magnus, o qual foi definido no início do trabalho e é o foco principal do experimento. Fazendo uma análise matemática da força Magnus nota-se os principais parâmetros que influenciam sua magnitude, que podem ser visualizados na Eq.5 . Além disso, sua direção vai ser determinada pelo produto vetorial entre a velocidade angular e a velocidade linear da parte rotativa. 
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=Fm&space;=&space;\frac{1}{2}&space;C_{s}\rho&space;AV^{2}&space;\frac{w\times&space;W}{w\times&space;W}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Fm&space;=&space;\frac{1}{2}&space;C_{s}\rho&space;AV^{2}&space;\frac{w\times&space;W}{w\times&space;W}" title="Fm = \frac{1}{2} C_{s}\rho AV^{2} \frac{w\times W}{w\times W}" /></a>
 
 **Equação 5:** Força Magnus.
  
- Parâmetros da equação 5:
+ Parâmetros da Eq.5:
  
  <a href="https://www.codecogs.com/eqnedit.php?latex=V=" target="_blank"><img src="https://latex.codecogs.com/gif.latex?V=" title="V=" /></a>  Velocidade.
  
@@ -244,9 +244,6 @@ Velocidade média:
  
  Erro experimental:  
   <a href="https://www.codecogs.com/eqnedit.php?latex=(229rpm&space;\pm&space;12,02)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(229rpm&space;\pm&space;12,02)" title="(229rpm \pm 12,02)" /></a>
-
-
-
 
 
 
