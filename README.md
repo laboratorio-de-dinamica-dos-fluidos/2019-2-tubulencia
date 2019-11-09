@@ -176,6 +176,8 @@ Por problemas no dimensionamento das peças no software Catia V5-R19, a constru�
 
 **Figura 9:** Estrutura final do experimento.
 
+Outro problema encontro pelo grupo, foi a instabilidade da estrutura do experimento. Portanto, optou-se como solução medir o peso da estrutura e equilibrar com um outro peso exatamente igual (figura 10). Outra solução adotada, foi adicionar elasticos na parte contrária a parte rotativa, para a estrutura se manter em um certo equilibriu durante o ensaio em túnel de vento (Figura 11). 
+
 <h1> Dados e Resultados</h1>
 
 Será apenas analisado as reações das forças de sustenção e arrasto causadas pelo efeito magnus, sem uma análise quantitativa. Além disso, será calculada a deformação da mola. Como resultado, deseja-se comprovar o efeito Magnus e sua capacidade aerodinâmica. 
