@@ -153,7 +153,7 @@ Na etapa de construção do experimento, o primeiro procedimento realizado foi a
   <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/8vPWESf.jpg">
 </p>
 
-**Figura 6:** Impressão 3D** 
+**Figura 6:** Impressão 3D
 
 <p align="center">
   <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/CvCWOgj.jpg">
