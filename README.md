@@ -52,7 +52,8 @@ nas quais ρ é a densidade do fluido, μ a viscosidade, U é a velocidade, d é
 <p align="center">
   <img width="300" height="300" [Imagem 2] src="https://i.imgur.com/55QiiYn.png">
 </p>
-**Figura 3:** Escoamento de fluido em torno de um cilindro em rotação
+
+**Figura 3:** Escoamento de fluido em torno de um cilindro em rotação.
 
  Na figura 3, pode ser observado  que  as  linhas  de  corrente  estão  mais  próximas  na  parte  superior  do  cilindro. Como citado neste relatório, nessa  região  a  velocidade  do  escoamento  é  maior,  e  de  acordo  com  o  teorema  de  Bernoulli (1738): “em  toda  corrente  de  água  ou  de ar a pressão será grande quando a velocidade for pequena e, ao contrário, a pressão será pequena quando a velocidade for grande”. Dessa forma, é  explicado  o  Efeito  Magnus,  pois  como  a  pressão  na  parte  de  cima  do cilindro  é  menor  em  relação  à  parte  de  baixo  (e  consequentemente  à  pressão  atmosférica),  o objeto tende  a desviar  sua trajetória  também  para cima (BOFF et al,  2012).
 
