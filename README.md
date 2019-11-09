@@ -136,7 +136,7 @@ Além disso, foi feita uma pesquisa detalhada dos preços dos materias que seria
 
 **Tabela 2:** Orçamento.
 
-Na figura 2, observa-se o CAD do experimento que foi desenvolvido no Software Catia V5-R19, elemento este que ajudará na etapa de construção e desenvolvimento do projeto. 
+Na Fig.5, observa-se o CAD 3D do experimento que foi desenvolvido no Software Catia V5-R19, elemento este que ajudará na etapa de construção e desenvolvimento do experimento juntamente com as plantas do projeto que podem ser visualizadas na seção de anexos. 
 
 <p align="center">
   <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/a8672JO.jpg">
@@ -164,9 +164,9 @@ Na etapa de construção do experimento, o primeiro procedimento realizado foi a
 
 **Figura 8:** Parte giratória. 
 
-Para a construção da peça rotativa, observada na figura 8, foi utilizada madeira balsa. O dimensionamento seguiu uma proporção entre a largura dos retângulos (5cm) e os raios das circunferências (2.5cm), que foram medidas baseadas nas dimensões do túnel de vento. A peça por completo é vazada e unida por um eixo (palito de churrasco). Para a construção desta peça, foram utilizadas ferramentas básicas, estilete e cola TEKBOND.
+Para a construção da peça rotativa, observada na Fig.8 , foi utilizada madeira balsa. O dimensionamento seguiu uma proporção entre a largura dos retângulos (5cm) e os raios das circunferências (2.5cm), que foram medidas baseadas nas dimensões do túnel de vento. A peça por completo é vazada e unida por um eixo (palito de churrasco). Para a construção desta peça, foram utilizadas ferramentas básicas, estilete e cola TEKBOND.
 
-Por problemas no dimensionamento das peças no software Catia V5-R19, a construção não foi concluída no prazo estipulado de acordo com o cronograma, uma vez que algumas peças precisaram ser remodeladas e impressas novamente. Além disso, o grupo teve problema em encontrar as molas adequadas para o experimento. Portanto, optou-se por substituir as molas por elásticos, tendo em vista que umas das propostas do experimento é apenas mostrar a existência das forças de sutentação e arrasto devido a deformação do elástico. A estrutura final que foi implementada no túnel de vento pode ser visualizada na figura 9.
+Por problemas no dimensionamento das peças no software Catia V5-R19, a construção não foi concluída no prazo estipulado de acordo com o cronograma, uma vez que algumas peças precisaram ser remodeladas e impressas novamente. Além disso, o grupo teve problema em encontrar as molas adequadas para o experimento. Portanto, optou-se por substituir as molas por elásticos, tendo em vista que umas das propostas do experimento é apenas mostrar a existência das forças de sutentação e arrasto devido a deformação do elástico. A estrutura final que foi implementada no túnel de vento pode ser visualizada na Fig.9 .
 
 <p align="center">
   <img width="400" height="400" [Imgur] src="https://i.imgur.com/dRqoccl.jpg">
@@ -174,7 +174,19 @@ Por problemas no dimensionamento das peças no software Catia V5-R19, a constru�
 
 **Figura 9:** Estrutura final do experimento.
 
-Outro problema encontro pelo grupo, foi a instabilidade da estrutura do experimento. Portanto, optou-se como solução medir o peso da estrutura e equilibrar com um outro peso exatamente igual (figura 10). Outra solução adotada, foi adicionar elasticos na parte contrária a parte rotativa, para a estrutura se manter em um certo equilibriu durante o ensaio em túnel de vento (Figura 11). 
+Outro problema encontro pelo grupo, foi a instabilidade da estrutura do experimento. Portanto, optou-se como solução medir o peso da estrutura e equilibrar com um outro peso exatamente igual (Fig.10 e Fig.11). Outra solução adotada, foi adicionar elasticos na parte contrária a parte rotativa, para a estrutura se manter em um certo equilibriu durante o ensaio em túnel de vento (Fig.12). 
+
+<p align="center">
+  <img width="400" height="400" [Imgur] src="(https://i.imgur.com/N3zQZVE.jpg)">
+</p>
+
+<p align="center">
+  <img width="400" height="400" [Imgur] src="(https://i.imgur.com/cbNmbJH.jpg)">
+</p>
+
+<p align="center">
+  <img width="400" height="400" [Imgur] src="(https://i.imgur.com/1oECDGJ.jpg)">
+</p>
 
 <h1> Dados e Resultados</h1>
 
