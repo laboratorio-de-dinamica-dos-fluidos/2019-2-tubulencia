@@ -280,8 +280,8 @@ Drawing das peças
   <img width="400" height="400" [Imagem 1] src="https://i.imgur.com/gRWrPXf.jpg">
 </p>
 
-Vídeo de teste em túnel de vento
+Vídeo do teste em túnel de vento
 
 **Anexo 6:**
-[![Watch the video](https://img.youtube.com/vi/loM8fx40lCo/maxresdefault.jpg)](https://youtu.be/loM8fx40lCo)
+
 [![Watch the video](https://i.imgur.com/2yjtCsi.png)](https://youtu.be/loM8fx40lCo)
