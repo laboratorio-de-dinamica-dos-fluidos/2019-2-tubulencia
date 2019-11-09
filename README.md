@@ -74,6 +74,8 @@ Para o sucesso do experimento, algumas questões são levadas em conta, como as 
 
 ![Figura 1- Rc Plane](https://i.imgur.com/1KWVMYN.png)
 
+**Diagrama 1:** Cronograma.
+
 Com relação a divisão de atividades, que pode ser observada na tabela abaixo. Foi determinada com base nas habilidades e disposição de cada membro para realiza-lás de acordo com o cronograma. 
 
 
@@ -87,6 +89,8 @@ Com relação a divisão de atividades, que pode ser observada na tabela abaixo.
 | Avaliação de custo    | Antonio          |
 | Construção            | Jhéssica         |
 | Análise de resultados | Todos os membros |
+
+**Tabela 1:** Divisão de atividades.
 
 Além disso, foi feita uma pesquisa detalhada dos preços dos materias que seriam utilizados na concepção do experimento. O grupo não teve gasto finaceiro com a madeira balsa e a placa de compensado, pois um membro do grupo já possui tais materiais e disponibilizou para uso. O orçamento final pode ser observado na tabela abaixo.
 
