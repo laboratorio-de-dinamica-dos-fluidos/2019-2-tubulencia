@@ -195,6 +195,9 @@ Outro problema encontro pelo grupo, foi a instabilidade da estrutura do experime
 
 **Figura 12:** Elásticos.
 
+Para a coleta de dados, foram necessários o túnel de vento, tacômetro Digital (+- 0,005), Minipa MDT-2238B e o aparato projetado pelo grupo.
+Primeiramente, colocou-se o aparato dentro no túnel de vento, o túnel foi acionado. Em seguida, com o uso de um tacômetro, mediu-se a velocidade que a peça rotativa do equipamento estava girando, as velocidades encontradas encontram-se na Tabela 3. 
+
 <h1> Dados e Resultados</h1>
 
 A primeira análise realizada foi a respeito do comportamento do fluido em torno da parte rotativa do experimento. Para isso utilizou-se o princípio de Bernoulli, que descreve o comportamento de um fluido a partir do princípios de conservação de energia (ALMEIDA, 2015, p.3). A equação que descreve esse princípio é descrita abaixo.
@@ -234,6 +237,8 @@ Outro ponto de análise é o efeito Magnus, o qual foi definido no início do tr
 |Primeira medição       | 238 rpm          |
 |Segunda medição        | 237 rpm          |
 |Terceira medição       | 212 rpm          |
+
+**Tabela 1:** Velocidade angular
 
 Velocidade média:
 
