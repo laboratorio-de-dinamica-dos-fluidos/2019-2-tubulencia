@@ -238,7 +238,7 @@ Outro ponto de análise é o efeito Magnus, o qual foi definido no início do tr
 |Segunda medição        | 237 rpm          |
 |Terceira medição       | 212 rpm          |
 
-**Tabela 1:** Velocidade angular
+**Tabela 3:** Velocidade angular
 
 Velocidade média:
 
