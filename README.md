@@ -40,20 +40,6 @@ Quando um fluido escoa em torno de um corpo sólido, surge sobre o corpo uma for
 
 **Figura 2:** Distribuição de forças em um corpo imerso em campo de escoamento.
 
-
-No caso do emprego de cilindros rotativos, outros parâmetros também são analisados, como o número de Reynolds e a rotação específica, dados por: 
-
-<a href="https://www.codecogs.com/eqnedit.php?latex=R_{e}=\frac{\rho&space;Ud}{\mu&space;}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?R_{e}=\frac{\rho&space;Ud}{\mu&space;}" title="R_{e}=\frac{\rho Ud}{\mu }" /></a>
-
-**Equação 1:** Número de Reymolds.
-
-<a href="https://www.codecogs.com/eqnedit.php?latex=\alpha=\frac{\omega&space;d}{2&space;U}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\alpha=\frac{\omega&space;d}{2&space;U}" title="\alpha=\frac{\omega d}{2 U}" /></a>
-
-**Equação 2:** Rotação específica.
-
-
-nas quais ρ é a massa específica do fluido, μ a viscosidade, U é a velocidade, d é o diâmetro do corpo e w éa velocidade angular do cilindro.
-
 <p align="center">
   <img width="450" height="300" [Imagem 2] src="https://i.imgur.com/55QiiYn.png">
 </p>
@@ -204,7 +190,7 @@ Primeiramente, colocou-se o aparato dentro no túnel de vento, o túnel foi acio
 
 <h1> Dados e Resultados</h1>
 
-A primeira análise realizada foi a respeito do comportamento do fluido em torno da parte rotativa do experimento. Para isso utilizou-se o princípio de Bernoulli, que descreve o comportamento de um fluido a partir do princípios de conservação de energia (ALMEIDA, 2015, p.3). A equação que descreve esse princípio é descrita abaixo.
+A primeira análise realizada foi a respeito do comportamento do fluido em torno da parte rotativa do experimento. Para isso utilizou-se o princípio de Bernoulli, que descreve o comportamento de um fluido a partir do princípios de conservação de energia (6). A equação que descreve esse princípio é descrita abaixo.
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\rho&space;v_{1}^{2}}{2}&space;&plus;&space;\rho&space;gh&space;&plus;&space;p_{1}&space;=&space;p_{2}&space;&plus;&space;\frac{\rho&space;v_{2}^{2}}{2}&space;&plus;\rho&space;gh" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\rho&space;v_{1}^{2}}{2}&space;&plus;&space;\rho&space;gh&space;&plus;&space;p_{1}&space;=&space;p_{2}&space;&plus;&space;\frac{\rho&space;v_{2}^{2}}{2}&space;&plus;\rho&space;gh" title="\frac{\rho v_{1}^{2}}{2} + \rho gh + p_{1} = p_{2} + \frac{\rho v_{2}^{2}}{2} +\rho gh" /></a>
 
@@ -264,7 +250,7 @@ Além disso, foi calculado as velocidade médias angulares e lineares, observada
 
 
 
-Além disso, analisou-se os efeitos da força de sustentação (Fs) e a Força de arrasto (Fa) gerados no experimento. Observou-se pela a deformação dos elásticos que apesar da força de sustentação ser alta o arrasto produzido também foi alto. Portanto, “ os corpos rombudos produzem um alto coeficiente de arrasto, que se deve, sobretudo, ao descolamento prematuro da camada limite, acarretando a formação de uma esteira relativamente larga” (ALMEIDA, 2015, p.3). Na Fig.12, pode ser visualizado com essas forças deformaram os elásticos.  
+Além disso, analisou-se os efeitos da força de sustentação (Fs) e a Força de arrasto (Fa) gerados no experimento. Observou-se pela a deformação dos elásticos que apesar da força de sustentação ser alta o arrasto produzido também foi alto. Portanto, “ os corpos rombudos produzem um alto coeficiente de arrasto, que se deve, sobretudo, ao descolamento prematuro da camada limite, acarretando a formação de uma esteira relativamente larga” (6). Na Fig.12, pode ser visualizado com essas forças deformaram os elásticos.  
 
 <p align="center">
   <img width="400" height="400" [Imgur] src="https://i.imgur.com/3naEYBf.png)">
