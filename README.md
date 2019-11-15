@@ -257,7 +257,7 @@ Além disso, analisou-se os efeitos da força de sustentação (Fs) e a Força d
   <img width="400" height="400" [Imgur] src="https://i.imgur.com/3naEYBf.png)">
 </p>
 
-Para definir o tipo do escoamento, foi calculado o número de Reynolds definido no Eq. 6. Para tal cálculo, primeiramente calculou-se a massa específica do ar e a viscosidade que são apresentados abaixo. Como o número de Reynolds obtido foi consideravelmente baixo, tem-se um escoamento laminar, o qual é caracterizado por apresentar partículas se movendo através de uma trajetória bem definida. 
+Para definir o regime do escoamento, foi calculado o número de Reynolds definido no Eq. 6. Para tal cálculo, primeiramente calculou-se a massa específica do ar e a viscosidade que são apresentados abaixo. Como o número de Reynolds obtido foi consideravelmente baixo, tem-se um escoamento laminar, o qual é caracterizado por apresentar partículas se movendo através de uma trajetória bem definida. 
 
 Parâmetros para o cálculo do número de Reynolds:
 
