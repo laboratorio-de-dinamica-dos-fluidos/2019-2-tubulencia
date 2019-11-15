@@ -231,6 +231,8 @@ Outro ponto de análise é o efeito Magnus, o qual foi definido no início do tr
 * <a href="https://www.codecogs.com/eqnedit.php?latex=w=" target="_blank"><img src="https://latex.codecogs.com/gif.latex?w=" title="w=" /></a> Velocidade angular.
  
 
+Um dado que foi possível ser obtido ao longo do experimento, foi a velocidade de rotação. Essa velocidade foi medida três vezes, as quais podem ser observadas na Tabela. 3, para obter uma precisão mais adequada e calcular os devidos erros experimentais.
+
 
 | Velocidades angulares |                  |
 |-----------------------|------------------|
