@@ -231,7 +231,7 @@ Outro ponto de análise é o efeito Magnus, o qual foi definido no início do tr
 * <a href="https://www.codecogs.com/eqnedit.php?latex=w=" target="_blank"><img src="https://latex.codecogs.com/gif.latex?w=" title="w=" /></a> Velocidade angular.
  
 
-Um dado que foi possível ser obtido ao longo do experimento, foi a velocidade de rotação. Essa velocidade foi medida três vezes, as quais podem ser observadas na Tabela. 3, para obter uma precisão mais adequada e calcular os devidos erros experimentais.
+Um dado obtido ao longo do experimento, foi a velocidade de rotação. Essa velocidade foi medida três vezes, as quais podem ser observadas na Tabela. 3, para obter uma precisão mais adequada e calcular os devidos erros experimentais.
 
 
 | Velocidades angulares |                  |
@@ -242,16 +242,20 @@ Um dado que foi possível ser obtido ao longo do experimento, foi a velocidade d
 
 **Tabela 3:** Velocidade angular
 
-Velocidade média:
+Erro experimental:  
+  <a href="https://www.codecogs.com/eqnedit.php?latex=(229rpm&space;\pm&space;12,02)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(229rpm&space;\pm&space;12,02)" title="(229rpm \pm 12,02)" /></a>
+
+Além disso, foi calculado as velocidade médias angulares e lineares, observadas nas Eq.6 e Eq.7.
+
+**Equação 6:** Velocidade média angular.
 
  <a href="https://www.codecogs.com/eqnedit.php?latex=Vm=\frac{238&plus;237&plus;212}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Vm=\frac{238&plus;237&plus;212}{3}" title="Vm=\frac{238+237+212}{3}" /></a>
  
  <a href="https://www.codecogs.com/eqnedit.php?latex=Vm=229rpm" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Vm=229rpm" title="Vm=229rpm" /></a>
  
+ **Equação 7:** Velocidade média linear.
  <a href="https://www.codecogs.com/eqnedit.php?latex=229&space;rpm&space;=0,6m/s" target="_blank"><img src="https://latex.codecogs.com/gif.latex?229&space;rpm&space;=0,6m/s" title="229 rpm =0,6m/s" /></a>
- 
- Erro experimental:  
-  <a href="https://www.codecogs.com/eqnedit.php?latex=(229rpm&space;\pm&space;12,02)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(229rpm&space;\pm&space;12,02)" title="(229rpm \pm 12,02)" /></a>
+
 
 
 
