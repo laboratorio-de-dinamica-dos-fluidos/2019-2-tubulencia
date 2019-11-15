@@ -240,7 +240,7 @@ Um dado obtido ao longo do experimento, foi a velocidade de rotação. Essa velo
 |Segunda medição        | 237 rpm          |
 |Terceira medição       | 212 rpm          |
 
-**Tabela 3:** Velocidade angular
+**Tabela 3:** Velocidades angulares
 
 Erro experimental:  
   <a href="https://www.codecogs.com/eqnedit.php?latex=(229rpm&space;\pm&space;12,02)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(229rpm&space;\pm&space;12,02)" title="(229rpm \pm 12,02)" /></a>
@@ -254,6 +254,7 @@ Além disso, foi calculado as velocidade médias angulares e lineares, observada
  <a href="https://www.codecogs.com/eqnedit.php?latex=Vm=229rpm" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Vm=229rpm" title="Vm=229rpm" /></a>
  
  **Equação 7:** Velocidade média linear.
+ 
  <a href="https://www.codecogs.com/eqnedit.php?latex=229&space;rpm&space;=0,6m/s" target="_blank"><img src="https://latex.codecogs.com/gif.latex?229&space;rpm&space;=0,6m/s" title="229 rpm =0,6m/s" /></a>
 
 
