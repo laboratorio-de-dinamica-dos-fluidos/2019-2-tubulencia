@@ -69,11 +69,11 @@ O propósito desse projeto é demonstrar experimentalmente que o efeito Magnus g
 Para a concepção do projeto, é necessário construir uma estrutura do RC Plane que seja adequada para o teste em túnel de vento. Portanto, os requisitos englobam:
 
 * Análise das características do túnel de vento (dimensões e velocidade); 
-* Será utilizado uma base para o experimento com compensado de madeira, para que o protótipo não se desloque ao longo do túnel de vento;
-* Será utilizado uma estrutura de impressão 3D, para sustentar a parte rotativa do experimento;
+* Será utilizada uma base para o experimento com compensado de madeira, para que o protótipo não se desloque ao longo do túnel de vento;
+* Será utilizada uma estrutura de impressão 3D, para sustentar a parte rotativa do experimento;
 * Serão utilizados rolamentos e parafusos;
 * A parte rotativa do experimento será constituída de madeira balsa;
-* Será utilizada duas molas para validar a existência das forças de sustentação e de arrasto.
+* Serão utilizadas duas molas para validar a existência das forças de sustentação e de arrasto.
 
 
 
@@ -82,7 +82,7 @@ Para a concepção do projeto, é necessário construir uma estrutura do RC Plan
 <h1>Escopo do experimento </h1> 
 
 <p>
-  Para concepção de tal projeto, será necessário primeiramente realizar um dimensionamento do túnel de vento, tendo em vista que será onde o experimento ocorrerá. Em segundo momento, será feito um desenho preliminar do protótipo, para posteriormente realizar um CAD 3D no software CATIA V5R21, este CAD ajudará na construção do protótipo que será feito com madeira balsa e impressão 3D. Finalizada a construção, se iniciarão os experimentos em túnel de vento para comprovar o efeito magnus. 
+  Para concepção de tal projeto, será necessário primeiramente realizar um dimensionamento do túnel de vento, tendo em vista que será onde o experimento ocorrerá. Em segundo momento, será feito um desenho preliminar do protótipo, para posteriormente realizar um CAD 3D no software CATIA V5R21; este CAD ajudará na construção do protótipo que será feito com madeira balsa e impressão 3D. Finalizada a construção, se iniciarão os experimentos em túnel de vento para comprovar o efeito Magnus. 
 <br />
  
 <h1>Avaliação de viabilidade </h1>  
@@ -96,7 +96,7 @@ Para o sucesso do experimento, algumas questões são levadas em conta, como as 
 
 **Diagrama 1:** Cronograma.
 
-Com relação a divisão de atividades, que pode ser observada na tabela abaixo. Foi determinada com base nas habilidades e disposição de cada membro para realiza-lás de acordo com o cronograma. 
+A divisão de atividades pode ser observada na tabela abaixo. Tal divisão teve como base as habilidades e disposição de cada membro para realiza-lás de acordo com o cronograma. 
 
 
 | Divisão de atividades |                            |
@@ -186,8 +186,8 @@ Outro problema encontro pelo grupo, foi a instabilidade da estrutura do experime
 
 **Figura 12:** Elásticos.
 
-Para a coleta de dados, foram necessários o túnel de vento, tacômetro Digital (+- 0,005), Minipa MDT-2238B e o aparato projetado pelo grupo.
-Primeiramente, colocou-se o aparato dentro no túnel de vento, o túnel foi acionado. Em seguida, com o uso de um tacômetro, mediu-se a velocidade que a peça rotativa do equipamento estava girando, as velocidades encontradas encontram-se na Tabela 3. 
+Para a coleta de dados, foram necessários o túnel de vento, tacômetro Digital (+- 0,005) Minipa MDT-2238B e o aparato projetado pelo grupo.
+Primeiramente, colocou-se o aparato dentro no túnel de vento, que em seguida foi foi acionado. Posteriormente, com o uso de um tacômetro, mediu-se a velocidade que a peça rotativa do equipamento estava girando, dispostas na Tabela 3, na seção Dados e Resultados. 
 
 <h1> Dados e Resultados</h1>
 
@@ -222,7 +222,7 @@ Outro ponto de análise é o efeito Magnus, o qual foi definido no início do tr
 * <a href="https://www.codecogs.com/eqnedit.php?latex=w=" target="_blank"><img src="https://latex.codecogs.com/gif.latex?w=" title="w=" /></a> Velocidade angular.
  
 
-Um dado obtido ao longo do experimento, foi a velocidade de rotação. Essa velocidade foi medida três vezes, as quais podem ser observadas na Tabela. 3, para obter uma precisão mais adequada e calcular os devidos erros experimentais.
+Um dado obtido ao longo do experimento foi a velocidade de rotação. Essa velocidade foi medida três vezes, as quais podem ser observadas na Tabela. 3, para obter uma precisão mais adequada e calcular os devidos erros experimentais.
 
 
 | Velocidades angulares |                  |
@@ -251,13 +251,13 @@ Além disso, foi calculado as velocidade médias angulares e lineares, observada
 
 
 
-Além disso, analisou-se os efeitos da força de sustentação (Fs) e a Força de arrasto (Fa) gerados no experimento. Observou-se pela a deformação dos elásticos que apesar da força de sustentação ser alta o arrasto produzido também foi alto. Portanto, “ os corpos rombudos produzem um alto coeficiente de arrasto, que se deve, sobretudo, ao descolamento prematuro da camada limite, acarretando a formação de uma esteira relativamente larga” (6). Na Fig.12, pode ser visualizado com essas forças deformaram os elásticos.  
+Ademais, analisou-se os efeitos da força de sustentação (Fs) e a Força de arrasto (Fa) gerados no experimento. Observou-se pela deformação dos elásticos que apesar da força de sustentação ser alta o arrasto produzido também foi alto. Portanto, “ os corpos rombudos produzem um alto coeficiente de arrasto, que se deve, sobretudo, ao descolamento prematuro da camada limite, acarretando a formação de uma esteira relativamente larga” (6). Na Fig.12, pode ser visualizado como essas forças deformaram os elásticos.  
 
 <p align="center">
   <img width="400" height="400" [Imgur] src="https://i.imgur.com/3naEYBf.png)">
 </p>
 
-Para definir o regime do escoamento, foi calculado o número de Reynolds definido no Eq. 6. Para tal cálculo, primeiramente calculou-se a massa específica do ar e a viscosidade que são apresentados abaixo. Como o número de Reynolds obtido foi consideravelmente baixo, tem-se um escoamento laminar, o qual é caracterizado por apresentar partículas se movendo através de uma trajetória bem definida. 
+Para definir o regime do escoamento, foi calculado o número de Reynolds definido no Eq. 6. Para tal cálculo, primeiramente calculou-se a massa específica do ar e a viscosidade que são apresentados abaixo. Como o número de Reynolds obtido foi consideravelmente baixo, tem-se um escoamento laminar, caracterizado por apresentar partículas se movendo através de uma trajetória bem definida. 
 
 Parâmetros para o cálculo do número de Reynolds:
 
