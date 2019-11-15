@@ -20,9 +20,9 @@
 
 <h1>Introdução </h1>
 
-A análise e a compreensão do escoamento ao redor de corpos sólidos é de suma importância para o avanço da tecnologia, em várias áreas de estudo. Compreender a dinâmica do escoamento e sua interação com esses corpos é muito importante para avaliação do sistema por onde o fluido escoa e para determinação de parâmetros, como a sustentação e o arrasto gerado por estes corpos (1). 
+A análise e a compreensão do escoamento ao redor de corpos sólidos é de suma importância para o avanço da tecnologia em várias áreas de estudo. Compreender a dinâmica do escoamento e sua interação com esses corpos é muito importante para a avaliação do sistema por onde o fluido escoa e para determinação de parâmetros, como a sustentação e o arrasto gerado por estes corpos (1). 
 
-O Efeito Magnus trata-se de um fenômeno hidrodinâmico descoberto pelo químico físico alemão Heinrich Gustav Magnus, onde um corpo girando em um fluido cria uma camada limite de ar ao redor dele mesmo. A camada limite induz um movimento circular generalizado do fluido. O Efeito Magnus é um caso isolado do princípio de Bernoulli, que estabelece que quando a velocidade é maior, a pressão do fluido é menor, e quando a velocidade é menor, a pressão do fluido é maior. Esse gradiente de fluido de pressão resulta em uma força líquida no corpo e consequentemente a rotação na direção perpendicular ao vetor velocidade.  
+O Efeito Magnus trata-se de um fenômeno hidrodinâmico descoberto pelo químico físico alemão Heinrich Gustav Magnus, no qual um corpo girando em um fluido cria uma camada limite de ar ao redor dele mesmo. A camada limite induz um movimento circular generalizado do fluido. O Efeito Magnus é um caso isolado do princípio de Bernoulli, que estabelece que quando a velocidade é maior, a pressão do fluido é menor, e quando a velocidade é menor, a pressão do fluido é maior. Esse gradiente de fluido de pressão resulta em uma força líquida no corpo e consequentemente a rotação na direção perpendicular ao vetor velocidade.  
 
 Para entender este princípio é necessário conhecer o comportamento dos fluidos em seu escoamento em torno dos objetos. Se um cilindro é introduzido num campo de escoamento inicialmente uniforme, as linhas de correte em torno do cilindro contornam o objeto. A velocidade do fluido é nula nos extremos de seu diâmetro horizontal e máxima nos extremos de seu diâmetro vertical, passando por valores intermediários para diâmetros que tenham outra orientação. Além disso, as velocidades da parede sólida e do escoamento  potencial possuem o mesmo sentido, enquanto que no escoamento principal e na parede movimentam-se em sentidos contrários (2).
 
@@ -41,7 +41,7 @@ Quando um fluido escoa em torno de um corpo sólido, surge sobre o corpo uma for
 **Figura 2:** Distribuição de forças em um corpo imerso em campo de escoamento.
 
 
- Na figura 3, pode ser observado  que  as  linhas  de  corrente  estão  mais  próximas  na  parte  superior  do  cilindro. Como citado neste relatório, nessa  região  a  velocidade  do  escoamento  é  maior,  e  de  acordo  com  o  teorema  de  Bernoulli (1738): “em  toda  corrente  de  água  ou  de ar a pressão será grande quando a velocidade for pequena e, ao contrário, a pressão será pequena quando a velocidade for grande”. Dessa forma, é  explicado  o  Efeito  Magnus,  pois  como  a  pressão  na  parte  de  cima  do cilindro  é  menor  em  relação  à  parte  de  baixo  (e  consequentemente  à  pressão  atmosférica),  o objeto tende  a desviar  sua trajetória  também  para cima (3).
+ Na figura 3 pode ser observado  que  as  linhas  de  corrente  estão  mais  próximas  na  parte  superior  do  cilindro. Como citado neste relatório, nessa  região  a  velocidade  do  escoamento  é  maior,  e  de  acordo  com  o  teorema  de  Bernoulli (1738): “em  toda  corrente  de  água  ou  de ar a pressão será grande quando a velocidade for pequena e, ao contrário, a pressão será pequena quando a velocidade for grande”. Dessa forma, é  explicado  o  Efeito  Magnus,  pois  como  a  pressão  na  parte  de  cima  do cilindro é menor em relação à parte de baixo (e consequentemente à pressão atmosférica), o objeto tende a desviar sua trajetória também para cima (3).
  
  <p align="center">
   <img width="450" height="300" [Imagem 2] src="https://i.imgur.com/55QiiYn.png">
@@ -49,13 +49,13 @@ Quando um fluido escoa em torno de um corpo sólido, surge sobre o corpo uma for
 
 **Figura 3:** Escoamento de fluido em torno de um cilindro em rotação.
 
-Exemplo de uma situação em que se observa o efeito Magnus é quando um jogador de futebol aplica uma força em uma bola e ela rotacionar em torno do seu centro, descrevendo uma curva no ar. Outro exemplo, é em um Rotor de Flettner para navios, que possuem cilindros que giram com o vento proporcionando áreas com diferentes pressões, isso gera uma terceira força que ajuda a impulsionar o navio (4). Além disso, tem cilindros rotativos usados em aeronaves para gerar uma força de sustentação. 
+Uma situação clássica em que se observa o efeito Magnus é quando um jogador de futebol aplica uma força em uma bola e ela rotaciona em torno do seu centro, descrevendo uma curva no ar. Outro exemplo é em um Rotor de Flettner para navios, que possuem cilindros que giram com o vento proporcionando áreas com diferentes pressões; isso gera uma terceira força que ajuda a impulsionar o navio (4). Além dessas aplicações, cilindros rotativos também são utilizados em aeronaves para gerar uma força de sustentação. 
 
 
 
 <h1>Objetivos </h1>
 
-O propósito desse projeto é demonstrar experimentalmente que o efeito Magnus gera uma força de sustentação em um Rc plane, observado na figura 1. O efeito será validado experimentalmente em túnel de vento utilizando uma adaptação da parte estrutural do dispositivo (o componente rotativo do RC plane) e desconsiderando o efeito do motor. Além da comprovação da força de sustentação, será também comprovado o arrasto gerado. Essas forças não serão medidas, mas apenas será observado o efeito gerado por tais. Para isso, será utilizado molas e pesos em pontos estratégicos da estrutura, que irão oscilar e deformar com o aumento da velocidade do fluxo de ar.
+O propósito desse projeto é demonstrar experimentalmente que o efeito Magnus gera uma força de sustentação em um Rc plane, observado na figura 1. O efeito será validado experimentalmente em túnel de vento utilizando uma adaptação da parte estrutural do dispositivo (o componente rotativo do RC plane) e desconsiderando o efeito do motor. Além da comprovação da força de sustentação, será também comprovado o arrasto gerado. Essas forças não serão aferidas, será apenas observado o efeito gerado por tais. Para isso, serão  utilizadas molas e pesos em pontos estratégicos da estrutura, que irão oscilar e deformar com o aumento da velocidade do fluxo de ar.
 
 
 <p align="center">
