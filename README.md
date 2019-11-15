@@ -20,17 +20,17 @@
 
 <h1>Introdução </h1>
 
-A análise e a compreensão do escoamento ao redor de corpos sólidos é de suma importância para o avanço da tecnologia, em várias áreas de estudo. Compreender a dinâmica do escoamento e sua interação com esses corpos é muito importante para avaliação do sistema por onde o fluido escoa e para determinação de parâmetros, como a sustentação e o arrasto gerado por estes corpos (Bimbato, 2012). 
+A análise e a compreensão do escoamento ao redor de corpos sólidos é de suma importância para o avanço da tecnologia, em várias áreas de estudo. Compreender a dinâmica do escoamento e sua interação com esses corpos é muito importante para avaliação do sistema por onde o fluido escoa e para determinação de parâmetros, como a sustentação e o arrasto gerado por estes corpos (1). 
 
 O Efeito Magnus trata-se de um fenômeno hidrodinâmico descoberto pelo químico físico alemão Heinrich Gustav Magnus, onde um corpo girando em um fluido cria uma camada limite de ar ao redor dele mesmo. A camada limite induz um movimento circular generalizado do fluido. O Efeito Magnus é um caso isolado do princípio de Bernoulli, que estabelece que quando a velocidade é maior, a pressão do fluido é menor, e quando a velocidade é menor, a pressão do fluido é maior. Esse gradiente de fluido de pressão resulta em uma força líquida no corpo e consequentemente a rotação na direção perpendicular ao vetor velocidade.  
 
-Para entender este princípio é necessário conhecer o comportamento dos fluidos em seu escoamento em torno dos objetos. Se um cilindro é introduzido num campo de escoamento inicialmente uniforme, as linhas de correte em torno do cilindro contornam o objeto. A velocidade do fluido é nula nos extremos de seu diâmetro horizontal e máxima nos extremos de seu diâmetro vertical, passando por valores intermediários para diâmetros que tenham outra orientação. Além disso, as velocidades da parede sólida e do escoamento  potencial possuem o mesmo sentido, enquanto que no escoamento principal e na parede movimentam-se em sentidos contrários (Carvalho,2003).
+Para entender este princípio é necessário conhecer o comportamento dos fluidos em seu escoamento em torno dos objetos. Se um cilindro é introduzido num campo de escoamento inicialmente uniforme, as linhas de correte em torno do cilindro contornam o objeto. A velocidade do fluido é nula nos extremos de seu diâmetro horizontal e máxima nos extremos de seu diâmetro vertical, passando por valores intermediários para diâmetros que tenham outra orientação. Além disso, as velocidades da parede sólida e do escoamento  potencial possuem o mesmo sentido, enquanto que no escoamento principal e na parede movimentam-se em sentidos contrários (2).
 
 <p align="center">
   <img width="350" height="350" [Imagem 1] src="https://i.imgur.com/HskYTNb.png">
 </p>
 
-**Figura 1:** Esquema de um cilindro em rotação(Carvalho,2003).
+**Figura 1:** Esquema de um cilindro em rotação (2).
 
 Quando um fluido escoa em torno de um corpo sólido, surge sobre o corpo uma força. A projeção desta força na direção normal ao escoamento é chamada de sustentação (<a href="https://www.codecogs.com/eqnedit.php?latex=F_{l}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?F_{l}" title="F_{l}" /></a>); em contrapartida, a componente paralela à corrente livre é denominada arrasto (<a href="https://www.codecogs.com/eqnedit.php?latex=F_{d}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?F_{d}" title="F_{d}" /></a>). 
 
@@ -60,7 +60,11 @@ nas quais ρ é a massa específica do fluido, μ a viscosidade, U é a velocida
 
 **Figura 3:** Escoamento de fluido em torno de um cilindro em rotação.
 
- Na figura 3, pode ser observado  que  as  linhas  de  corrente  estão  mais  próximas  na  parte  superior  do  cilindro. Como citado neste relatório, nessa  região  a  velocidade  do  escoamento  é  maior,  e  de  acordo  com  o  teorema  de  Bernoulli (1738): “em  toda  corrente  de  água  ou  de ar a pressão será grande quando a velocidade for pequena e, ao contrário, a pressão será pequena quando a velocidade for grande”. Dessa forma, é  explicado  o  Efeito  Magnus,  pois  como  a  pressão  na  parte  de  cima  do cilindro  é  menor  em  relação  à  parte  de  baixo  (e  consequentemente  à  pressão  atmosférica),  o objeto tende  a desviar  sua trajetória  também  para cima (BOFF et al,  2012).
+ Na figura 3, pode ser observado  que  as  linhas  de  corrente  estão  mais  próximas  na  parte  superior  do  cilindro. Como citado neste relatório, nessa  região  a  velocidade  do  escoamento  é  maior,  e  de  acordo  com  o  teorema  de  Bernoulli (1738): “em  toda  corrente  de  água  ou  de ar a pressão será grande quando a velocidade for pequena e, ao contrário, a pressão será pequena quando a velocidade for grande”. Dessa forma, é  explicado  o  Efeito  Magnus,  pois  como  a  pressão  na  parte  de  cima  do cilindro  é  menor  em  relação  à  parte  de  baixo  (e  consequentemente  à  pressão  atmosférica),  o objeto tende  a desviar  sua trajetória  também  para cima (3).
+ 
+Exemplo de uma situação em que se observa o efeito Magnus é quando um jogador de futebol aplica uma força em uma bola e ela rotacionar em torno do seu centro, descrevendo uma curva no ar. Outro exemplo, é em um Rotor de Flettner para navios, que possuem cilindros que giram com o vento proporcionando áreas com diferentes pressões, isso gera uma terceira força que ajuda a impulsionar o navio (4). Além disso, tem cilindros rotativos usados em aeronaves para gerar uma força de sustentação. 
+
+
 
 <h1>Objetivos </h1>
 
@@ -284,13 +288,18 @@ Parâmetros para o cálculo do número de Reynolds:
 
 <h1> Referências</h1>
 
-BIMBATO, Alex Mendonça. Estudo de Escoamentos Turbulentos em torno de um Corpo Rombudo de Superfície Hidraulicamente Lisa ou Rugosa Utilizando o Método de Vórtices Discretos. 2012. 165 f. Tese (Doutorado em Engenharia Mecânica) – Universidade Federal de Itajubá, Itajubá, 2012.
+(1) BIMBATO, Alex Mendonça. Estudo de Escoamentos Turbulentos em torno de um Corpo Rombudo de Superfície Hidraulicamente Lisa ou Rugosa Utilizando o Método de Vórtices Discretos. 2012. 165 f. Tese (Doutorado em Engenharia Mecânica) – Universidade Federal de Itajubá, Itajubá, 2012.
 
-BOFF, J. ; JORGE, L. S. ; MACEDO, L. C.; SEREJO, R.; PINTO, W. T.; FONSECA, W.  S.  Demonstração  experimental  do  Efeito  Magnus  utilizando  material  de  baixo custo. XL Congresso Brasileiro de Educação e Engenharia (COBENGE), 2012, Bélem - PA.
+(2) CARVALHO, Gustavo Bifaroni de. Estudo experimental do escoamento em torno de cilindros circulares em movimento de rotação. 2003. xx, 90 f. Dissertação (mestrado) - Universidade Estadual Paulista, Faculdade de Engenharia de Ilha Solteira, 2003. Disponível em: <http://hdl.handle.net/11449/88895>.
 
-CARVALHO, Gustavo Bifaroni de. Estudo experimental do escoamento em torno de cilindros circulares em movimento de rotação. 2003. xx, 90 f. Dissertação (mestrado) - Universidade Estadual Paulista, Faculdade de Engenharia de Ilha Solteira, 2003. Disponível em: <http://hdl.handle.net/11449/88895>.
+(3) BOFF, J. ; JORGE, L. S. ; MACEDO, L. C.; SEREJO, R.; PINTO, W. T.; FONSECA, W.  S.  Demonstração  experimental  do  Efeito  Magnus  utilizando  material  de  baixo custo. XL Congresso Brasileiro de Educação e Engenharia (COBENGE), 2012, Bélem - PA.
 
-Ribeiro, C.Z RASTREAMENTO DO PONTO DE MÁXIMA POTÊNCIA DE TURBINAS MAGNUS ACIONANDO GERADORES ELÉTRICOS. Universidade Federal de Santa Maria, Sata Maria 2014 RS, Brasil. 
+(4)The Flettner Rotor – An Invention Ahead of Its Time. Deutsches Technikmuseum, 1 agosto de 2010. Disponível em: <https://sdtb.de/index.php?id=1623&type=0>
+
+(5) Ribeiro, C.Z RASTREAMENTO DO PONTO DE MÁXIMA POTÊNCIA DE TURBINAS MAGNUS ACIONANDO GERADORES ELÉTRICOS. Universidade Federal de Santa Maria, Sata Maria 2014 RS, Brasil. 
+
+(6) ALMEIDA, Bruno Seixas Gome. Aerodinâmica de bolas. Rev. Bras. Ensino Fís. vol.37 no.3 São Paulo July/Sept. 2015
+
 
 <h1>Conclusão</h1>
 
