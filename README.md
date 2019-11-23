@@ -273,6 +273,13 @@ Parâmetros para o cálculo do número de Reynolds:
 
 **Equação 6:** Número de Reynolds.
 
+<h1>Conclusão</h1>
+
+
+As análises realizadas ao longo do experimento se mostraram condizentes com a bibliográfica vigente. Pode se concluir, que a utilização do efeito Magnus em um RC plane é viável e uma ótima alternativa, pois se comprovou pela deformação dos elásticos que é possível produzir uma força de sustentação significativa, mesmo com o arrasto gerado. Portanto, é de suma importância realizar um estudo a respeito de cilindros rotativos, pois eles possuem diversas aplicações em áreas como naval e aeronáutica, devido ao alto coeficiente de sustentação proporcionado.
+
+
+
 <h1> Referências</h1>
 
 (1) BIMBATO, Alex Mendonça. Estudo de Escoamentos Turbulentos em torno de um Corpo Rombudo de Superfície Hidraulicamente Lisa ou Rugosa Utilizando o Método de Vórtices Discretos. 2012. 165 f. Tese (Doutorado em Engenharia Mecânica) – Universidade Federal de Itajubá, Itajubá, 2012.
@@ -288,7 +295,7 @@ Parâmetros para o cálculo do número de Reynolds:
 (6) ALMEIDA, Bruno Seixas Gome. Aerodinâmica de bolas. Rev. Bras. Ensino Fís. vol.37 no.3 São Paulo July/Sept. 2015
 
 
-<h1>Conclusão</h1>
+
 
 <h1>Anexos</h1>
 
