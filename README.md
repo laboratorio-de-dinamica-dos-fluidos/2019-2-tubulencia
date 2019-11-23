@@ -276,7 +276,7 @@ Parâmetros para o cálculo do número de Reynolds:
 <h1>Conclusão</h1>
 
 
-As análises realizadas ao longo do experimento se mostraram condizentes com a bibliográfica vigente. Pode se concluir, que a utilização do efeito Magnus em um RC plane é viável e uma ótima alternativa, pois se comprovou pela deformação dos elásticos que é possível produzir uma força de sustentação significativa, mesmo com o arrasto gerado. Portanto, é de suma importância realizar um estudo a respeito de cilindros rotativos, pois eles possuem diversas aplicações em áreas como naval e aeronáutica, devido ao alto coeficiente de sustentação proporcionado.
+As análises realizadas ao longo do experimento se mostraram condizentes com a bibliográfica vigente. Pode se concluir, que a utilização do efeito Magnus em um RC plane é viável e uma ótima alternativa, pois se comprovou pela deformação dos elásticos que é possível produzir uma força de sustentação significativa, mesmo com o arrasto gerado. Porém, esse arrasto é um dos motivos pelo o qual os cilindros rotativos não serem empregados com frequência na indústria, por isso é importante se fazer um estudo do controle da camada limite em torno de tal, para obter uma relação conveniente entre o arrasto e a sustentação. Outro ponto que dificulta a aplicação dos cilindros rotativos  é o fato de serem móveis, o que possibilita mais graus liberdade, tornando assim o projeto com mais desafios.
 
 
 
