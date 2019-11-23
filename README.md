@@ -187,11 +187,11 @@ Outro problema encontro pelo grupo, foi a instabilidade da estrutura do experime
 **Figura 12:** Elásticos.
 
 Para a coleta de dados, foram necessários o túnel de vento, tacômetro Digital (+- 0,005) Minipa MDT-2238B e o aparato projetado pelo grupo.
-Primeiramente, colocou-se o aparato dentro no túnel de vento, que em seguida foi foi acionado. Posteriormente, com o uso de um tacômetro, mediu-se a velocidade que a peça rotativa do equipamento estava girando, dispostas na Tabela 3, na seção Dados e Resultados. 
+Primeiramente, colocou-se o aparato dentro no túnel de vento, que em seguida foi acionado. Posteriormente, com o uso de um tacômetro, mediu-se a velocidade que a peça rotativa do equipamento estava girando, dispostas na Tabela 3, na seção Dados e Resultados. 
 
 <h1> Dados e Resultados</h1>
 
-A primeira análise realizada foi a respeito do comportamento do fluido em torno da parte rotativa do experimento. Para isso utilizou-se o princípio de Bernoulli, que descreve o comportamento de um fluido a partir do princípios de conservação de energia (6). A equação que descreve esse princípio é descrita abaixo.
+A primeira análise realizada foi a respeito do comportamento do fluido em torno da parte rotativa do experimento. Para isso utilizou-se o princípio de Bernoulli, que descreve o comportamento de um fluido a partir do princípio de conservação de energia (6). A equação que descreve esse princípio é descrita abaixo.
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\rho&space;v_{1}^{2}}{2}&space;&plus;&space;\rho&space;gh&space;&plus;&space;p_{1}&space;=&space;p_{2}&space;&plus;&space;\frac{\rho&space;v_{2}^{2}}{2}&space;&plus;\rho&space;gh" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\rho&space;v_{1}^{2}}{2}&space;&plus;&space;\rho&space;gh&space;&plus;&space;p_{1}&space;=&space;p_{2}&space;&plus;&space;\frac{\rho&space;v_{2}^{2}}{2}&space;&plus;\rho&space;gh" title="\frac{\rho v_{1}^{2}}{2} + \rho gh + p_{1} = p_{2} + \frac{\rho v_{2}^{2}}{2} +\rho gh" /></a>
 
@@ -276,7 +276,7 @@ Parâmetros para o cálculo do número de Reynolds:
 <h1>Conclusão</h1>
 
 
-As análises realizadas ao longo do experimento se mostraram condizentes com a bibliográfica vigente. Pode se concluir, que a utilização do efeito Magnus em um RC plane é viável e uma ótima alternativa, pois se comprovou pela deformação dos elásticos que é possível produzir uma força de sustentação significativa, mesmo com o arrasto gerado. Porém, esse arrasto é um dos motivos pelo o qual os cilindros rotativos não serem empregados com frequência na indústria, por isso é importante se fazer um estudo do controle da camada limite em torno de tal, para obter uma relação conveniente entre o arrasto e a sustentação. Outro ponto que dificulta a aplicação dos cilindros rotativos  é o fato de serem móveis, o que possibilita mais graus liberdade, tornando assim o projeto com mais desafios.
+As análises realizadas ao longo do experimento se mostraram condizentes com a bibliográfica vigente. Pode se concluir, que a utilização do efeito Magnus em um RC plane é viável e uma ótima alternativa, pois se comprovou pela deformação dos elásticos que é possível produzir uma força de sustentação significativa, mesmo com o arrasto gerado. No entanto, esse arrasto é um dos motivos pelo o qual os cilindros rotativos não serem empregados com frequência na indústria, por isso é importante se fazer um estudo do controle da camada limite em torno de tal, para obter uma relação conveniente entre o arrasto e a sustentação. Outro ponto que dificulta a aplicação dos cilindros rotativos é o fato de serem móveis, o que possibilita mais graus liberdade, tornando assim o projeto com mais desafios.
 
 
 
