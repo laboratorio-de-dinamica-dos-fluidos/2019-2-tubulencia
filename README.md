@@ -236,7 +236,7 @@ Um dado obtido ao longo do experimento foi a velocidade de rotação. Essa veloc
 Erro experimental:  
   <a href="https://www.codecogs.com/eqnedit.php?latex=(229rpm&space;\pm&space;12,02)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(229rpm&space;\pm&space;12,02)" title="(229rpm \pm 12,02)" /></a>
 
-Além disso, foi calculado as velocidade médias angulares e lineares, observadas nas Eq.6 e Eq.7.
+Além disso, foi calculado as velocidades médias angulares e lineares, observadas nas Eq.6 e Eq.7.
 
 **Equação 6:** Velocidade média angular.
 
