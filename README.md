@@ -222,7 +222,7 @@ Outro ponto de análise é o efeito Magnus, o qual foi definido no início do tr
 * <a href="https://www.codecogs.com/eqnedit.php?latex=w=" target="_blank"><img src="https://latex.codecogs.com/gif.latex?w=" title="w=" /></a> Velocidade angular.
  
 
-Um dado obtido ao longo do experimento foi a velocidade de rotação. Essa velocidade foi medida três vezes, as quais podem ser observadas na Tabela. 3. É importante observar que fatores como  isntabilidade do aparato e calibração do tacômetro utilizado, influenciam diretamente na extatidão das medidas, causando flutuações. 
+Um dado obtido ao longo do experimento foi a velocidade de rotação, essa velocidade foi medida três vezes, as quais podem ser observadas na Tabela. 3. É importante observar que fatores como  instabilidade do aparato e calibração do tacômetro utilizado, influenciam diretamente na extatidão das medidas, causando flutuações. 
 
 
 | Velocidades angulares |                  |
