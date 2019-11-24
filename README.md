@@ -71,7 +71,7 @@ Para a concepção do projeto, é necessário construir uma estrutura do RC Plan
 * Análise das características do túnel de vento (dimensões e velocidade); 
 * Será utilizada uma base para o experimento com compensado de madeira, para que o protótipo não se desloque ao longo do túnel de vento;
 * Será utilizada uma estrutura de impressão 3D, para sustentar a parte rotativa do experimento;
-* Serão utilizados rolamentos e parafusos;
+* Serão utilizados parafusos;
 * A parte rotativa do experimento será constituída de madeira balsa;
 * Serão utilizadas duas molas para validar a existência das forças de sustentação e de arrasto.
 
