@@ -41,7 +41,7 @@ Quando um fluido escoa em torno de um corpo sólido, surge sobre o corpo uma for
 **Figura 2:** Distribuição de forças em um corpo imerso em campo de escoamento.
 
 
- Na figura 3 pode ser observado  que  as  linhas  de  corrente  estão  mais  próximas  na  parte  superior  do  cilindro. Como citado neste relatório, nessa  região  a  velocidade  do  escoamento  é  maior,  e  de  acordo  com  o  teorema  de  Bernoulli (1738): “em  toda  corrente  de  água  ou  de ar a pressão será grande quando a velocidade for pequena e, ao contrário, a pressão será pequena quando a velocidade for grande”. Dessa forma, é  explicado  o  Efeito  Magnus,  pois  como  a  pressão  na  parte  de  cima  do cilindro é menor em relação à parte de baixo (e consequentemente à pressão atmosférica), o objeto tende a desviar sua trajetória também para cima (3).
+ Na Fig.3 pode ser observado  que  as  linhas  de  corrente  estão  mais  próximas  na  parte  superior  do  cilindro. Como citado neste relatório, nessa  região  a  velocidade  do  escoamento  é  maior,  e  de  acordo  com  o  teorema  de  Bernoulli (1738): “em  toda  corrente  de  água  ou  de ar a pressão será grande quando a velocidade for pequena e, ao contrário, a pressão será pequena quando a velocidade for grande”. Dessa forma, é  explicado  o  Efeito  Magnus,  pois  como  a  pressão  na  parte  de  cima  do cilindro é menor em relação à parte de baixo (e consequentemente à pressão atmosférica), o objeto tende a desviar sua trajetória também para cima (3).
  
  <p align="center">
   <img width="450" height="300" [Imagem 2] src="https://i.imgur.com/55QiiYn.png">
@@ -55,7 +55,7 @@ Uma situação clássica em que se observa o efeito Magnus é quando um jogador 
 
 <h1>Objetivos </h1>
 
-O propósito desse projeto é demonstrar experimentalmente que o efeito Magnus gera uma força de sustentação em um Rc plane, observado na figura 1. O efeito será validado experimentalmente em túnel de vento utilizando uma adaptação da parte estrutural do dispositivo (o componente rotativo do RC plane) e desconsiderando o efeito do motor. Além da comprovação da força de sustentação, será também comprovado o arrasto gerado. Essas forças não serão aferidas, será apenas observado o efeito gerado por tais. Para isso, serão  utilizadas molas e pesos em pontos estratégicos da estrutura, que irão oscilar e deformar com o aumento da velocidade do fluxo de ar.
+O propósito desse projeto é demonstrar experimentalmente que o efeito Magnus gera uma força de sustentação em um Rc plane, observado na Fig.1. O efeito será validado experimentalmente em túnel de vento utilizando uma adaptação da parte estrutural do dispositivo (o componente rotativo do RC plane) e desconsiderando o efeito do motor. Além da comprovação da força de sustentação, será também comprovado o arrasto gerado. Essas forças não serão aferidas, será apenas observado o efeito gerado por tais. Para isso, serão  utilizadas molas e pesos em pontos estratégicos da estrutura, que irão oscilar e deformar com o aumento da velocidade do fluxo de ar.
 
 
 <p align="center">
